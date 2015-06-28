@@ -3740,7 +3740,7 @@ a.subdued {
   z-index: 0;
   overflow: hidden;
   min-height: 100%;
-  max-height: 100%;
+  /*max-height: 100%;*/
   width: 275px;
   background-color: #fff; }
   .menu .scroll-content {
@@ -4015,7 +4015,7 @@ a.subdued {
   .popup-container .popup {
     width: 250px;
     max-width: 100%;
-    max-height: 90%;
+    max-height: 100%;
     border-radius: 0px;
     background-color: rgba(255, 255, 255, 0.9);
     display: -webkit-box;

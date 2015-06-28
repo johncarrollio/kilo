@@ -2503,3 +2503,1669 @@
 2015-06-18 09:54:44.619 FacebookExample[1744:125236] [CDVTimer][TotalPluginStartup] 0.241995ms
 2015-06-18 09:54:47.273 FacebookExample[1744:125236] Resetting plugins due to page load.
 2015-06-18 09:54:50.886 FacebookExample[1744:125236] Finished load of: http://192.168.1.214:8100/#/login
+2015-06-19 13:49:56.414 FacebookExample[4990:1052361] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 13:49:56.450 FacebookExample[4990:1052361] Multi-tasking -> Device: YES, App: YES
+2015-06-19 13:49:56.606 FacebookExample[4990:1052361] Unlimited access to network resources
+2015-06-19 13:49:58.872 FacebookExample[4990:1052361] [CDVTimer][keyboard] 0.059009ms
+2015-06-19 13:49:58.872 FacebookExample[4990:1052361] [CDVTimer][TotalPluginStartup] 0.242949ms
+2015-06-19 13:50:00.808 FacebookExample[4990:1052361] Resetting plugins due to page load.
+2015-06-19 13:50:02.282 FacebookExample[4990:1052361] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 13:50:04.827 FacebookExample[4990:1052361] THREAD WARNING: ['Keyboard'] took '32.343994' ms. Plugin should use a background thread.
+2015-06-19 13:58:10.516 FacebookExample[5377:1088206] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 13:58:10.526 FacebookExample[5377:1088206] Multi-tasking -> Device: YES, App: YES
+2015-06-19 13:58:10.539 FacebookExample[5377:1088206] Unlimited access to network resources
+2015-06-19 13:58:10.666 FacebookExample[5377:1088206] [CDVTimer][keyboard] 0.060976ms
+2015-06-19 13:58:10.666 FacebookExample[5377:1088206] [CDVTimer][TotalPluginStartup] 0.248969ms
+2015-06-19 13:58:11.262 FacebookExample[5377:1088206] Resetting plugins due to page load.
+2015-06-19 13:58:11.903 FacebookExample[5377:1088206] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 14:02:01.607 FacebookExample[5686:1113311] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 14:02:01.618 FacebookExample[5686:1113311] Multi-tasking -> Device: YES, App: YES
+2015-06-19 14:02:01.637 FacebookExample[5686:1113311] Unlimited access to network resources
+2015-06-19 14:02:01.799 FacebookExample[5686:1113311] [CDVTimer][keyboard] 0.063002ms
+2015-06-19 14:02:01.799 FacebookExample[5686:1113311] [CDVTimer][TotalPluginStartup] 0.258029ms
+2015-06-19 14:02:02.212 FacebookExample[5686:1113311] Resetting plugins due to page load.
+2015-06-19 14:02:02.595 FacebookExample[5686:1113311] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 14:04:05.214 FacebookExample[5968:1125583] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 14:04:05.226 FacebookExample[5968:1125583] Multi-tasking -> Device: YES, App: YES
+2015-06-19 14:04:05.234 FacebookExample[5968:1125583] Unlimited access to network resources
+2015-06-19 14:04:05.364 FacebookExample[5968:1125583] [CDVTimer][keyboard] 0.057995ms
+2015-06-19 14:04:05.364 FacebookExample[5968:1125583] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-19 14:04:05.765 FacebookExample[5968:1125583] Resetting plugins due to page load.
+2015-06-19 14:04:06.136 FacebookExample[5968:1125583] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 14:04:19.737 FacebookExample[5968:1125583] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-19 14:04:19.784 FacebookExample[5968:1125583] THREAD WARNING: ['InAppBrowser'] took '362.289062' ms. Plugin should use a background thread.
+2015-06-19 14:13:23.955 FacebookExample[6291:1167322] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 14:13:23.956 FacebookExample[6291:1167322] Multi-tasking -> Device: YES, App: YES
+2015-06-19 14:13:23.985 FacebookExample[6291:1167322] Unlimited access to network resources
+2015-06-19 14:13:24.107 FacebookExample[6291:1167322] [CDVTimer][keyboard] 0.059009ms
+2015-06-19 14:13:24.107 FacebookExample[6291:1167322] [CDVTimer][TotalPluginStartup] 0.286996ms
+2015-06-19 14:13:24.442 FacebookExample[6291:1167322] Resetting plugins due to page load.
+2015-06-19 14:13:24.871 FacebookExample[6291:1167322] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 14:13:38.324 FacebookExample[6291:1167322] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-19 14:13:38.330 FacebookExample[6291:1167322] THREAD WARNING: ['InAppBrowser'] took '88.673096' ms. Plugin should use a background thread.
+2015-06-19 14:42:02.346 FacebookExample[6844:1306104] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 14:42:02.358 FacebookExample[6844:1306104] Multi-tasking -> Device: YES, App: YES
+2015-06-19 14:42:02.360 FacebookExample[6844:1306104] Unlimited access to network resources
+2015-06-19 14:42:02.503 FacebookExample[6844:1306104] [CDVTimer][keyboard] 0.055969ms
+2015-06-19 14:42:02.503 FacebookExample[6844:1306104] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-06-19 14:42:03.392 FacebookExample[6844:1306104] Resetting plugins due to page load.
+2015-06-19 14:42:03.965 FacebookExample[6844:1306104] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 14:42:11.483 FacebookExample[6844:1306104] Resetting plugins due to page load.
+2015-06-19 14:42:11.586 FacebookExample[6844:1306104] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 14:42:11.932 FacebookExample[6844:1306104] Resetting plugins due to page load.
+2015-06-19 14:42:12.015 FacebookExample[6844:1306104] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 14:42:14.495 FacebookExample[6844:1306104] Resetting plugins due to page load.
+2015-06-19 14:42:14.595 FacebookExample[6844:1306104] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 14:42:14.848 FacebookExample[6844:1306104] Resetting plugins due to page load.
+2015-06-19 14:42:14.952 FacebookExample[6844:1306104] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:00:29.399 FacebookExample[7216:1380725] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:00:29.421 FacebookExample[7216:1380725] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:00:29.439 FacebookExample[7216:1380725] Unlimited access to network resources
+2015-06-19 15:00:29.554 FacebookExample[7216:1380725] [CDVTimer][keyboard] 0.075042ms
+2015-06-19 15:00:29.554 FacebookExample[7216:1380725] [CDVTimer][TotalPluginStartup] 0.270009ms
+2015-06-19 15:00:30.345 FacebookExample[7216:1380725] Resetting plugins due to page load.
+2015-06-19 15:00:30.920 FacebookExample[7216:1380725] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:00:38.380 FacebookExample[7216:1380725] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-19 15:00:38.385 FacebookExample[7216:1380725] THREAD WARNING: ['InAppBrowser'] took '125.595947' ms. Plugin should use a background thread.
+2015-06-19 15:04:01.642 FacebookExample[7498:1392604] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:04:01.643 FacebookExample[7498:1392604] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:04:01.645 FacebookExample[7498:1392604] Unlimited access to network resources
+2015-06-19 15:04:01.756 FacebookExample[7498:1392604] [CDVTimer][keyboard] 0.056982ms
+2015-06-19 15:04:01.757 FacebookExample[7498:1392604] [CDVTimer][TotalPluginStartup] 0.265002ms
+2015-06-19 15:04:02.128 FacebookExample[7498:1392604] Resetting plugins due to page load.
+2015-06-19 15:04:02.499 FacebookExample[7498:1392604] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:21:43.696 FacebookExample[7869:1441769] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:21:43.697 FacebookExample[7869:1441769] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:21:43.715 FacebookExample[7869:1441769] Unlimited access to network resources
+2015-06-19 15:21:43.847 FacebookExample[7869:1441769] [CDVTimer][keyboard] 0.061989ms
+2015-06-19 15:21:43.848 FacebookExample[7869:1441769] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-19 15:21:44.326 FacebookExample[7869:1441769] Resetting plugins due to page load.
+2015-06-19 15:21:45.042 FacebookExample[7869:1441769] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:23:01.606 FacebookExample[8138:1451154] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:23:01.619 FacebookExample[8138:1451154] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:23:01.650 FacebookExample[8138:1451154] Unlimited access to network resources
+2015-06-19 15:23:01.796 FacebookExample[8138:1451154] [CDVTimer][keyboard] 0.069976ms
+2015-06-19 15:23:01.796 FacebookExample[8138:1451154] [CDVTimer][TotalPluginStartup] 0.276029ms
+2015-06-19 15:23:02.189 FacebookExample[8138:1451154] Resetting plugins due to page load.
+2015-06-19 15:23:02.585 FacebookExample[8138:1451154] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:27:07.359 FacebookExample[8429:1473136] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:27:07.360 FacebookExample[8429:1473136] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:27:07.376 FacebookExample[8429:1473136] Unlimited access to network resources
+2015-06-19 15:27:07.512 FacebookExample[8429:1473136] [CDVTimer][keyboard] 0.055969ms
+2015-06-19 15:27:07.512 FacebookExample[8429:1473136] [CDVTimer][TotalPluginStartup] 0.356972ms
+2015-06-19 15:27:08.467 FacebookExample[8429:1473136] Resetting plugins due to page load.
+2015-06-19 15:27:08.994 FacebookExample[8429:1473136] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:27:59.134 FacebookExample[8697:1477898] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:27:59.135 FacebookExample[8697:1477898] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:27:59.146 FacebookExample[8697:1477898] Unlimited access to network resources
+2015-06-19 15:27:59.280 FacebookExample[8697:1477898] [CDVTimer][keyboard] 0.061989ms
+2015-06-19 15:27:59.281 FacebookExample[8697:1477898] [CDVTimer][TotalPluginStartup] 0.270963ms
+2015-06-19 15:28:00.015 FacebookExample[8697:1477898] Resetting plugins due to page load.
+2015-06-19 15:28:00.546 FacebookExample[8697:1477898] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:28:45.330 FacebookExample[8697:1477898] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-19 15:28:45.335 FacebookExample[8697:1477898] THREAD WARNING: ['InAppBrowser'] took '191.198975' ms. Plugin should use a background thread.
+2015-06-19 15:31:13.801 FacebookExample[8977:1493483] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:31:13.813 FacebookExample[8977:1493483] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:31:13.834 FacebookExample[8977:1493483] Unlimited access to network resources
+2015-06-19 15:31:14.008 FacebookExample[8977:1493483] [CDVTimer][keyboard] 0.086010ms
+2015-06-19 15:31:14.008 FacebookExample[8977:1493483] [CDVTimer][TotalPluginStartup] 0.302017ms
+2015-06-19 15:31:14.429 FacebookExample[8977:1493483] Resetting plugins due to page load.
+2015-06-19 15:31:14.935 FacebookExample[8977:1493483] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:33:02.715 FacebookExample[8977:1493652] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-19 15:34:34.222 FacebookExample[9258:1517423] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:34:34.235 FacebookExample[9258:1517423] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:34:34.251 FacebookExample[9258:1517423] Unlimited access to network resources
+2015-06-19 15:34:34.425 FacebookExample[9258:1517423] [CDVTimer][keyboard] 0.061035ms
+2015-06-19 15:34:34.425 FacebookExample[9258:1517423] [CDVTimer][TotalPluginStartup] 0.246048ms
+2015-06-19 15:34:35.403 FacebookExample[9258:1517423] Resetting plugins due to page load.
+2015-06-19 15:34:35.930 FacebookExample[9258:1517423] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:35:48.018 FacebookExample[9529:1523246] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:35:48.019 FacebookExample[9529:1523246] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:35:48.030 FacebookExample[9529:1523246] Unlimited access to network resources
+2015-06-19 15:35:48.186 FacebookExample[9529:1523246] [CDVTimer][keyboard] 0.072002ms
+2015-06-19 15:35:48.186 FacebookExample[9529:1523246] [CDVTimer][TotalPluginStartup] 0.379980ms
+2015-06-19 15:35:49.042 FacebookExample[9529:1523246] Resetting plugins due to page load.
+2015-06-19 15:35:50.091 FacebookExample[9529:1523246] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:36:57.132 FacebookExample[9827:1533270] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:36:57.144 FacebookExample[9827:1533270] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:36:57.154 FacebookExample[9827:1533270] Unlimited access to network resources
+2015-06-19 15:36:57.311 FacebookExample[9827:1533270] [CDVTimer][keyboard] 0.095010ms
+2015-06-19 15:36:57.311 FacebookExample[9827:1533270] [CDVTimer][TotalPluginStartup] 0.310004ms
+2015-06-19 15:36:57.834 FacebookExample[9827:1533270] Resetting plugins due to page load.
+2015-06-19 15:36:58.264 FacebookExample[9827:1533270] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:40:30.999 FacebookExample[10131:1559414] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:40:31.022 FacebookExample[10131:1559414] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:40:31.039 FacebookExample[10131:1559414] Unlimited access to network resources
+2015-06-19 15:40:31.328 FacebookExample[10131:1559414] [CDVTimer][keyboard] 0.057995ms
+2015-06-19 15:40:31.328 FacebookExample[10131:1559414] [CDVTimer][TotalPluginStartup] 0.240982ms
+2015-06-19 15:40:31.957 FacebookExample[10131:1559414] Resetting plugins due to page load.
+2015-06-19 15:40:32.383 FacebookExample[10131:1559414] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:41:37.540 FacebookExample[10131:1559414] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-19 15:41:37.546 FacebookExample[10131:1559414] THREAD WARNING: ['InAppBrowser'] took '64.459961' ms. Plugin should use a background thread.
+2015-06-19 15:42:20.483 FacebookExample[10402:1572946] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:42:20.484 FacebookExample[10402:1572946] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:42:20.502 FacebookExample[10402:1572946] Unlimited access to network resources
+2015-06-19 15:42:20.641 FacebookExample[10402:1572946] [CDVTimer][keyboard] 0.060976ms
+2015-06-19 15:42:20.642 FacebookExample[10402:1572946] [CDVTimer][TotalPluginStartup] 0.247955ms
+2015-06-19 15:42:20.992 FacebookExample[10402:1572946] Resetting plugins due to page load.
+2015-06-19 15:42:21.350 FacebookExample[10402:1572946] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 15:46:38.596 FacebookExample[10562:1606779] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 15:46:38.610 FacebookExample[10562:1606779] Multi-tasking -> Device: YES, App: YES
+2015-06-19 15:46:38.621 FacebookExample[10562:1606779] Unlimited access to network resources
+2015-06-19 15:46:38.721 FacebookExample[10562:1606779] [CDVTimer][keyboard] 0.058949ms
+2015-06-19 15:46:38.721 FacebookExample[10562:1606779] [CDVTimer][TotalPluginStartup] 0.245035ms
+2015-06-19 15:46:39.112 FacebookExample[10562:1606779] Resetting plugins due to page load.
+2015-06-19 15:46:39.560 FacebookExample[10562:1606779] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:14:31.651 FacebookExample[10562:1606779] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-19 16:14:31.669 FacebookExample[10562:1606779] THREAD WARNING: ['InAppBrowser'] took '165.775879' ms. Plugin should use a background thread.
+2015-06-19 16:15:28.386 FacebookExample[11136:1768360] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:15:28.399 FacebookExample[11136:1768360] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:15:28.415 FacebookExample[11136:1768360] Unlimited access to network resources
+2015-06-19 16:15:28.521 FacebookExample[11136:1768360] [CDVTimer][keyboard] 0.059009ms
+2015-06-19 16:15:28.521 FacebookExample[11136:1768360] [CDVTimer][TotalPluginStartup] 0.264943ms
+2015-06-19 16:15:28.981 FacebookExample[11136:1768360] Resetting plugins due to page load.
+2015-06-19 16:15:29.486 FacebookExample[11136:1768360] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:15:33.999 FacebookExample[11136:1768360] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-19 16:15:34.005 FacebookExample[11136:1768360] THREAD WARNING: ['InAppBrowser'] took '116.767090' ms. Plugin should use a background thread.
+2015-06-19 16:17:42.293 FacebookExample[11413:1779699] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:17:42.305 FacebookExample[11413:1779699] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:17:42.316 FacebookExample[11413:1779699] Unlimited access to network resources
+2015-06-19 16:17:42.497 FacebookExample[11413:1779699] [CDVTimer][keyboard] 0.056028ms
+2015-06-19 16:17:42.497 FacebookExample[11413:1779699] [CDVTimer][TotalPluginStartup] 0.241041ms
+2015-06-19 16:17:43.407 FacebookExample[11413:1779699] Resetting plugins due to page load.
+2015-06-19 16:17:43.957 FacebookExample[11413:1779699] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:19:05.930 FacebookExample[11684:1785047] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:19:05.954 FacebookExample[11684:1785047] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:19:05.966 FacebookExample[11684:1785047] Unlimited access to network resources
+2015-06-19 16:19:06.098 FacebookExample[11684:1785047] [CDVTimer][keyboard] 0.064015ms
+2015-06-19 16:19:06.098 FacebookExample[11684:1785047] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-19 16:19:06.867 FacebookExample[11684:1785047] Resetting plugins due to page load.
+2015-06-19 16:19:07.397 FacebookExample[11684:1785047] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:19:11.836 FacebookExample[11684:1785047] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-19 16:19:11.843 FacebookExample[11684:1785047] THREAD WARNING: ['InAppBrowser'] took '146.281006' ms. Plugin should use a background thread.
+2015-06-19 16:20:52.745 FacebookExample[11955:1793196] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:20:52.759 FacebookExample[11955:1793196] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:20:52.772 FacebookExample[11955:1793196] Unlimited access to network resources
+2015-06-19 16:20:52.903 FacebookExample[11955:1793196] [CDVTimer][keyboard] 0.061989ms
+2015-06-19 16:20:52.903 FacebookExample[11955:1793196] [CDVTimer][TotalPluginStartup] 0.250995ms
+2015-06-19 16:20:53.739 FacebookExample[11955:1793196] Resetting plugins due to page load.
+2015-06-19 16:20:54.303 FacebookExample[11955:1793196] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:24:14.726 FacebookExample[12241:1812717] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:24:14.736 FacebookExample[12241:1812717] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:24:14.754 FacebookExample[12241:1812717] Unlimited access to network resources
+2015-06-19 16:24:14.911 FacebookExample[12241:1812717] [CDVTimer][keyboard] 0.060022ms
+2015-06-19 16:24:14.911 FacebookExample[12241:1812717] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-19 16:24:16.138 FacebookExample[12241:1812717] Resetting plugins due to page load.
+2015-06-19 16:24:16.768 FacebookExample[12241:1812717] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:26:53.031 FacebookExample[12517:1831461] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:26:53.066 FacebookExample[12517:1831461] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:26:53.083 FacebookExample[12517:1831461] Unlimited access to network resources
+2015-06-19 16:26:53.287 FacebookExample[12517:1831461] [CDVTimer][keyboard] 0.056982ms
+2015-06-19 16:26:53.287 FacebookExample[12517:1831461] [CDVTimer][TotalPluginStartup] 0.239015ms
+2015-06-19 16:26:53.903 FacebookExample[12517:1831461] Resetting plugins due to page load.
+2015-06-19 16:26:54.442 FacebookExample[12517:1831461] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:28:54.780 FacebookExample[12790:1846448] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:28:54.794 FacebookExample[12790:1846448] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:28:54.804 FacebookExample[12790:1846448] Unlimited access to network resources
+2015-06-19 16:28:54.929 FacebookExample[12790:1846448] [CDVTimer][keyboard] 0.064015ms
+2015-06-19 16:28:54.930 FacebookExample[12790:1846448] [CDVTimer][TotalPluginStartup] 0.294983ms
+2015-06-19 16:28:55.279 FacebookExample[12790:1846448] Resetting plugins due to page load.
+2015-06-19 16:28:55.749 FacebookExample[12790:1846448] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:35:41.824 FacebookExample[13104:1888950] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:35:41.824 FacebookExample[13104:1888950] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:35:41.842 FacebookExample[13104:1888950] Unlimited access to network resources
+2015-06-19 16:35:41.984 FacebookExample[13104:1888950] [CDVTimer][keyboard] 0.060976ms
+2015-06-19 16:35:41.984 FacebookExample[13104:1888950] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-19 16:35:43.071 FacebookExample[13104:1888950] Resetting plugins due to page load.
+2015-06-19 16:35:43.777 FacebookExample[13104:1888950] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:36:01.543 FacebookExample[13104:1888950] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-19 16:36:01.565 FacebookExample[13104:1888950] THREAD WARNING: ['InAppBrowser'] took '182.750977' ms. Plugin should use a background thread.
+2015-06-19 16:38:17.057 FacebookExample[13385:1904229] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:38:17.067 FacebookExample[13385:1904229] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:38:17.099 FacebookExample[13385:1904229] Unlimited access to network resources
+2015-06-19 16:38:17.267 FacebookExample[13385:1904229] [CDVTimer][keyboard] 0.069976ms
+2015-06-19 16:38:17.267 FacebookExample[13385:1904229] [CDVTimer][TotalPluginStartup] 0.259995ms
+2015-06-19 16:38:18.092 FacebookExample[13385:1904229] Resetting plugins due to page load.
+2015-06-19 16:38:19.261 FacebookExample[13385:1904229] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:40:27.195 FacebookExample[13715:1921411] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:40:27.196 FacebookExample[13715:1921411] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:40:27.368 FacebookExample[13715:1921411] Unlimited access to network resources
+2015-06-19 16:40:27.520 FacebookExample[13715:1921411] [CDVTimer][keyboard] 0.056028ms
+2015-06-19 16:40:27.520 FacebookExample[13715:1921411] [CDVTimer][TotalPluginStartup] 0.326991ms
+2015-06-19 16:40:28.353 FacebookExample[13715:1921411] Resetting plugins due to page load.
+2015-06-19 16:40:28.936 FacebookExample[13715:1921411] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:42:25.700 FacebookExample[13862:1931954] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:42:25.712 FacebookExample[13862:1931954] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:42:25.722 FacebookExample[13862:1931954] Unlimited access to network resources
+2015-06-19 16:42:25.852 FacebookExample[13862:1931954] [CDVTimer][keyboard] 0.069976ms
+2015-06-19 16:42:25.853 FacebookExample[13862:1931954] [CDVTimer][TotalPluginStartup] 0.267982ms
+2015-06-19 16:42:26.258 FacebookExample[13862:1931954] Resetting plugins due to page load.
+2015-06-19 16:42:26.729 FacebookExample[13862:1931954] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 16:58:16.451 FacebookExample[14376:2027738] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 16:58:16.460 FacebookExample[14376:2027738] Multi-tasking -> Device: YES, App: YES
+2015-06-19 16:58:16.470 FacebookExample[14376:2027738] Unlimited access to network resources
+2015-06-19 16:58:16.736 FacebookExample[14376:2027738] [CDVTimer][keyboard] 0.060022ms
+2015-06-19 16:58:16.736 FacebookExample[14376:2027738] [CDVTimer][TotalPluginStartup] 0.262022ms
+2015-06-19 16:58:18.032 FacebookExample[14376:2027738] Resetting plugins due to page load.
+2015-06-19 16:58:20.229 FacebookExample[14376:2027738] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 17:04:57.341 FacebookExample[14677:2069458] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 17:04:57.342 FacebookExample[14677:2069458] Multi-tasking -> Device: YES, App: YES
+2015-06-19 17:04:57.360 FacebookExample[14677:2069458] Unlimited access to network resources
+2015-06-19 17:04:57.494 FacebookExample[14677:2069458] [CDVTimer][keyboard] 0.057995ms
+2015-06-19 17:04:57.494 FacebookExample[14677:2069458] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-19 17:04:58.337 FacebookExample[14677:2069458] Resetting plugins due to page load.
+2015-06-19 17:04:59.067 FacebookExample[14677:2069458] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 17:06:44.673 FacebookExample[14949:2082675] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 17:06:44.674 FacebookExample[14949:2082675] Multi-tasking -> Device: YES, App: YES
+2015-06-19 17:06:44.700 FacebookExample[14949:2082675] Unlimited access to network resources
+2015-06-19 17:06:44.846 FacebookExample[14949:2082675] [CDVTimer][keyboard] 0.057995ms
+2015-06-19 17:06:44.846 FacebookExample[14949:2082675] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-19 17:06:45.720 FacebookExample[14949:2082675] Resetting plugins due to page load.
+2015-06-19 17:06:46.351 FacebookExample[14949:2082675] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 17:11:25.803 FacebookExample[15237:2114329] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 17:11:25.804 FacebookExample[15237:2114329] Multi-tasking -> Device: YES, App: YES
+2015-06-19 17:11:25.815 FacebookExample[15237:2114329] Unlimited access to network resources
+2015-06-19 17:11:26.005 FacebookExample[15237:2114329] [CDVTimer][keyboard] 0.087023ms
+2015-06-19 17:11:26.005 FacebookExample[15237:2114329] [CDVTimer][TotalPluginStartup] 0.385046ms
+2015-06-19 17:11:27.557 FacebookExample[15237:2114329] Resetting plugins due to page load.
+2015-06-19 17:11:28.309 FacebookExample[15237:2114329] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 17:12:52.848 FacebookExample[15507:2123808] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 17:12:52.849 FacebookExample[15507:2123808] Multi-tasking -> Device: YES, App: YES
+2015-06-19 17:12:52.866 FacebookExample[15507:2123808] Unlimited access to network resources
+2015-06-19 17:12:53.002 FacebookExample[15507:2123808] [CDVTimer][keyboard] 0.064015ms
+2015-06-19 17:12:53.002 FacebookExample[15507:2123808] [CDVTimer][TotalPluginStartup] 0.274003ms
+2015-06-19 17:12:53.895 FacebookExample[15507:2123808] Resetting plugins due to page load.
+2015-06-19 17:12:54.552 FacebookExample[15507:2123808] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 17:14:26.920 FacebookExample[15777:2133230] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 17:14:26.930 FacebookExample[15777:2133230] Multi-tasking -> Device: YES, App: YES
+2015-06-19 17:14:26.948 FacebookExample[15777:2133230] Unlimited access to network resources
+2015-06-19 17:14:27.121 FacebookExample[15777:2133230] [CDVTimer][keyboard] 0.063002ms
+2015-06-19 17:14:27.121 FacebookExample[15777:2133230] [CDVTimer][TotalPluginStartup] 0.248969ms
+2015-06-19 17:14:27.877 FacebookExample[15777:2133230] Resetting plugins due to page load.
+2015-06-19 17:14:28.461 FacebookExample[15777:2133230] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 17:20:29.986 FacebookExample[16076:2180486] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 17:20:29.987 FacebookExample[16076:2180486] Multi-tasking -> Device: YES, App: YES
+2015-06-19 17:20:30.005 FacebookExample[16076:2180486] Unlimited access to network resources
+2015-06-19 17:20:30.151 FacebookExample[16076:2180486] [CDVTimer][keyboard] 0.055969ms
+2015-06-19 17:20:30.151 FacebookExample[16076:2180486] [CDVTimer][TotalPluginStartup] 0.277996ms
+2015-06-19 17:20:31.061 FacebookExample[16076:2180486] Resetting plugins due to page load.
+2015-06-19 17:20:31.698 FacebookExample[16076:2180486] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 17:24:44.651 FacebookExample[16276:2201036] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 17:24:44.662 FacebookExample[16276:2201036] Multi-tasking -> Device: YES, App: YES
+2015-06-19 17:24:44.680 FacebookExample[16276:2201036] Unlimited access to network resources
+2015-06-19 17:24:44.825 FacebookExample[16276:2201036] [CDVTimer][keyboard] 0.135958ms
+2015-06-19 17:24:44.825 FacebookExample[16276:2201036] [CDVTimer][TotalPluginStartup] 0.571012ms
+2015-06-19 17:24:45.642 FacebookExample[16276:2201036] Resetting plugins due to page load.
+2015-06-19 17:24:46.238 FacebookExample[16276:2201036] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-19 17:29:40.805 FacebookExample[16590:2232548] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 17:29:40.833 FacebookExample[16590:2232548] Multi-tasking -> Device: YES, App: YES
+2015-06-19 17:29:40.845 FacebookExample[16590:2232548] Unlimited access to network resources
+2015-06-19 17:29:40.978 FacebookExample[16590:2232548] [CDVTimer][keyboard] 0.060976ms
+2015-06-19 17:29:40.978 FacebookExample[16590:2232548] [CDVTimer][TotalPluginStartup] 0.250041ms
+2015-06-19 17:29:41.889 FacebookExample[16590:2232548] Resetting plugins due to page load.
+2015-06-19 17:29:42.582 FacebookExample[16590:2232548] Finished load of: http://192.168.0.6:8100/#/init
+2015-06-20 12:21:29.968 FacebookExample[1337:20927] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-20 12:21:29.995 FacebookExample[1337:20927] Multi-tasking -> Device: YES, App: YES
+2015-06-20 12:21:30.066 FacebookExample[1337:20927] Unlimited access to network resources
+2015-06-20 12:21:32.850 FacebookExample[1337:20927] [CDVTimer][keyboard] 0.092030ms
+2015-06-20 12:21:32.850 FacebookExample[1337:20927] [CDVTimer][TotalPluginStartup] 0.272989ms
+2015-06-20 12:21:35.352 FacebookExample[1337:20927] Resetting plugins due to page load.
+2015-06-20 12:21:37.914 FacebookExample[1337:20927] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-20 12:26:29.674 FacebookExample[1651:43900] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-20 12:26:29.682 FacebookExample[1651:43900] Multi-tasking -> Device: YES, App: YES
+2015-06-20 12:26:29.703 FacebookExample[1651:43900] Unlimited access to network resources
+2015-06-20 12:26:29.912 FacebookExample[1651:43900] [CDVTimer][keyboard] 0.057995ms
+2015-06-20 12:26:29.912 FacebookExample[1651:43900] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-20 12:26:31.649 FacebookExample[1651:43900] Resetting plugins due to page load.
+2015-06-20 12:26:32.909 FacebookExample[1651:43900] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-20 12:30:56.540 FacebookExample[1967:66550] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-20 12:30:56.576 FacebookExample[1967:66550] Multi-tasking -> Device: YES, App: YES
+2015-06-20 12:30:56.600 FacebookExample[1967:66550] Unlimited access to network resources
+2015-06-20 12:30:56.836 FacebookExample[1967:66550] [CDVTimer][keyboard] 0.064015ms
+2015-06-20 12:30:56.836 FacebookExample[1967:66550] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-20 12:30:58.866 FacebookExample[1967:66550] Resetting plugins due to page load.
+2015-06-20 12:30:59.849 FacebookExample[1967:66550] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-20 12:34:24.140 FacebookExample[2268:82918] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-20 12:34:24.156 FacebookExample[2268:82918] Multi-tasking -> Device: YES, App: YES
+2015-06-20 12:34:24.190 FacebookExample[2268:82918] Unlimited access to network resources
+2015-06-20 12:34:24.439 FacebookExample[2268:82918] [CDVTimer][keyboard] 0.056982ms
+2015-06-20 12:34:24.439 FacebookExample[2268:82918] [CDVTimer][TotalPluginStartup] 0.239968ms
+2015-06-20 12:34:26.480 FacebookExample[2268:82918] Resetting plugins due to page load.
+2015-06-20 12:34:27.785 FacebookExample[2268:82918] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-20 12:41:04.856 FacebookExample[2600:117873] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-20 12:41:04.870 FacebookExample[2600:117873] Multi-tasking -> Device: YES, App: YES
+2015-06-20 12:41:04.897 FacebookExample[2600:117873] Unlimited access to network resources
+2015-06-20 12:41:05.175 FacebookExample[2600:117873] [CDVTimer][keyboard] 0.088036ms
+2015-06-20 12:41:05.175 FacebookExample[2600:117873] [CDVTimer][TotalPluginStartup] 0.271976ms
+2015-06-20 12:41:06.971 FacebookExample[2600:117873] Resetting plugins due to page load.
+2015-06-20 12:41:07.899 FacebookExample[2600:117873] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-20 12:51:39.562 FacebookExample[2991:185599] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-20 12:51:39.563 FacebookExample[2991:185599] Multi-tasking -> Device: YES, App: YES
+2015-06-20 12:51:39.571 FacebookExample[2991:185599] Unlimited access to network resources
+2015-06-20 12:51:39.707 FacebookExample[2991:185599] [CDVTimer][keyboard] 0.057995ms
+2015-06-20 12:51:39.708 FacebookExample[2991:185599] [CDVTimer][TotalPluginStartup] 0.302970ms
+2015-06-20 12:51:40.854 FacebookExample[2991:185599] Resetting plugins due to page load.
+2015-06-20 12:51:41.442 FacebookExample[2991:185599] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-20 12:52:39.292 FacebookExample[3261:194341] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-20 12:52:39.293 FacebookExample[3261:194341] Multi-tasking -> Device: YES, App: YES
+2015-06-20 12:52:39.311 FacebookExample[3261:194341] Unlimited access to network resources
+2015-06-20 12:52:39.416 FacebookExample[3261:194341] [CDVTimer][keyboard] 0.098944ms
+2015-06-20 12:52:39.416 FacebookExample[3261:194341] [CDVTimer][TotalPluginStartup] 0.338972ms
+2015-06-20 12:52:39.496 FacebookExample[3261:194341] Resetting plugins due to page load.
+2015-06-20 12:52:39.913 FacebookExample[3261:194341] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-20 12:56:14.153 FacebookExample[3558:209421] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-20 12:56:14.167 FacebookExample[3558:209421] Multi-tasking -> Device: YES, App: YES
+2015-06-20 12:56:14.177 FacebookExample[3558:209421] Unlimited access to network resources
+2015-06-20 12:56:14.311 FacebookExample[3558:209421] [CDVTimer][keyboard] 0.068009ms
+2015-06-20 12:56:14.311 FacebookExample[3558:209421] [CDVTimer][TotalPluginStartup] 0.263989ms
+2015-06-20 12:56:14.670 FacebookExample[3558:209421] Resetting plugins due to page load.
+2015-06-20 12:56:15.066 FacebookExample[3558:209421] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-20 13:06:07.597 FacebookExample[3558:209421] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-20 13:06:07.711 FacebookExample[3558:209421] THREAD WARNING: ['InAppBrowser'] took '433.964844' ms. Plugin should use a background thread.
+2015-06-20 18:09:23.352 FacebookExample[3558:567332] Communications error: <OS_xpc_error: <error: 0x2e1c5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2e1c83c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-06-21 12:42:48.403 FacebookExample[12095:2706677] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 12:42:48.404 FacebookExample[12095:2706677] Multi-tasking -> Device: YES, App: YES
+2015-06-21 12:42:48.442 FacebookExample[12095:2706677] Unlimited access to network resources
+2015-06-21 12:42:48.673 FacebookExample[12095:2706677] [CDVTimer][keyboard] 0.057995ms
+2015-06-21 12:42:48.673 FacebookExample[12095:2706677] [CDVTimer][TotalPluginStartup] 0.248969ms
+2015-06-21 12:42:49.521 FacebookExample[12095:2706677] Resetting plugins due to page load.
+2015-06-21 12:42:50.479 FacebookExample[12095:2706677] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 12:42:50.581 FacebookExample[12095:2706677] THREAD WARNING: ['Keyboard'] took '31.302979' ms. Plugin should use a background thread.
+2015-06-21 12:42:52.598 FacebookExample[12095:2706677] THREAD WARNING: ['Keyboard'] took '10.791992' ms. Plugin should use a background thread.
+2015-06-21 12:42:59.191 FacebookExample[12095:2706677] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 12:42:59.206 FacebookExample[12095:2706677] THREAD WARNING: ['InAppBrowser'] took '237.854736' ms. Plugin should use a background thread.
+2015-06-21 12:44:31.011 FacebookExample[12095:2706677] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 12:44:31.014 FacebookExample[12095:2706677] THREAD WARNING: ['InAppBrowser'] took '56.556885' ms. Plugin should use a background thread.
+2015-06-21 12:46:33.790 FacebookExample[12387:2729251] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 12:46:33.791 FacebookExample[12387:2729251] Multi-tasking -> Device: YES, App: YES
+2015-06-21 12:46:33.806 FacebookExample[12387:2729251] Unlimited access to network resources
+2015-06-21 12:46:33.952 FacebookExample[12387:2729251] [CDVTimer][keyboard] 0.057995ms
+2015-06-21 12:46:33.952 FacebookExample[12387:2729251] [CDVTimer][TotalPluginStartup] 0.248015ms
+2015-06-21 12:46:34.363 FacebookExample[12387:2729251] Resetting plugins due to page load.
+2015-06-21 12:46:34.889 FacebookExample[12387:2729251] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 12:46:38.801 FacebookExample[12387:2729251] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 12:46:38.807 FacebookExample[12387:2729251] THREAD WARNING: ['InAppBrowser'] took '101.364746' ms. Plugin should use a background thread.
+2015-06-21 12:47:23.318 FacebookExample[12387:2729251] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 12:47:23.321 FacebookExample[12387:2729251] THREAD WARNING: ['InAppBrowser'] took '56.552002' ms. Plugin should use a background thread.
+2015-06-21 12:54:06.491 FacebookExample[12711:2773791] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 12:54:06.491 FacebookExample[12711:2773791] Multi-tasking -> Device: YES, App: YES
+2015-06-21 12:54:06.504 FacebookExample[12711:2773791] Unlimited access to network resources
+2015-06-21 12:54:06.638 FacebookExample[12711:2773791] [CDVTimer][keyboard] 0.056028ms
+2015-06-21 12:54:06.638 FacebookExample[12711:2773791] [CDVTimer][TotalPluginStartup] 0.274003ms
+2015-06-21 12:54:07.505 FacebookExample[12711:2773791] Resetting plugins due to page load.
+2015-06-21 12:54:08.098 FacebookExample[12711:2773791] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 12:56:27.998 FacebookExample[12986:2790382] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 12:56:28.000 FacebookExample[12986:2790382] Multi-tasking -> Device: YES, App: YES
+2015-06-21 12:56:28.010 FacebookExample[12986:2790382] Unlimited access to network resources
+2015-06-21 12:56:28.168 FacebookExample[12986:2790382] [CDVTimer][keyboard] 0.059009ms
+2015-06-21 12:56:28.168 FacebookExample[12986:2790382] [CDVTimer][TotalPluginStartup] 0.239968ms
+2015-06-21 12:56:28.968 FacebookExample[12986:2790382] Resetting plugins due to page load.
+2015-06-21 12:56:29.519 FacebookExample[12986:2790382] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 12:58:12.684 FacebookExample[12986:2790382] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 12:58:12.690 FacebookExample[12986:2790382] THREAD WARNING: ['InAppBrowser'] took '158.802979' ms. Plugin should use a background thread.
+2015-06-21 13:02:45.574 FacebookExample[12986:2790382] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:02:45.633 FacebookExample[12986:2790382] THREAD WARNING: ['InAppBrowser'] took '112.686035' ms. Plugin should use a background thread.
+2015-06-21 13:06:46.174 FacebookExample[13187:2820292] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:06:46.187 FacebookExample[13187:2820292] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:06:46.200 FacebookExample[13187:2820292] Unlimited access to network resources
+2015-06-21 13:06:46.342 FacebookExample[13187:2820292] [CDVTimer][keyboard] 0.055015ms
+2015-06-21 13:06:46.342 FacebookExample[13187:2820292] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-21 13:06:47.155 FacebookExample[13187:2820292] Resetting plugins due to page load.
+2015-06-21 13:06:47.737 FacebookExample[13187:2820292] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:08:11.413 FacebookExample[13455:2829549] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:08:11.425 FacebookExample[13455:2829549] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:08:11.436 FacebookExample[13455:2829549] Unlimited access to network resources
+2015-06-21 13:08:11.570 FacebookExample[13455:2829549] [CDVTimer][keyboard] 0.055015ms
+2015-06-21 13:08:11.570 FacebookExample[13455:2829549] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-06-21 13:08:12.004 FacebookExample[13455:2829549] Resetting plugins due to page load.
+2015-06-21 13:08:12.501 FacebookExample[13455:2829549] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:08:18.782 FacebookExample[13455:2829549] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:08:18.788 FacebookExample[13455:2829549] THREAD WARNING: ['InAppBrowser'] took '119.177002' ms. Plugin should use a background thread.
+2015-06-21 13:12:14.069 FacebookExample[13747:2857512] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:12:14.082 FacebookExample[13747:2857512] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:12:14.096 FacebookExample[13747:2857512] Unlimited access to network resources
+2015-06-21 13:12:14.226 FacebookExample[13747:2857512] [CDVTimer][keyboard] 0.059009ms
+2015-06-21 13:12:14.227 FacebookExample[13747:2857512] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-21 13:12:15.105 FacebookExample[13747:2857512] Resetting plugins due to page load.
+2015-06-21 13:12:15.674 FacebookExample[13747:2857512] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:12:39.159 FacebookExample[13747:2857512] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:12:39.164 FacebookExample[13747:2857512] THREAD WARNING: ['InAppBrowser'] took '156.440186' ms. Plugin should use a background thread.
+2015-06-21 13:15:18.232 FacebookExample[14027:2878062] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:15:18.233 FacebookExample[14027:2878062] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:15:18.256 FacebookExample[14027:2878062] Unlimited access to network resources
+2015-06-21 13:15:18.369 FacebookExample[14027:2878062] [CDVTimer][keyboard] 0.055969ms
+2015-06-21 13:15:18.369 FacebookExample[14027:2878062] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-21 13:15:18.685 FacebookExample[14027:2878062] Resetting plugins due to page load.
+2015-06-21 13:15:19.100 FacebookExample[14027:2878062] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:15:37.167 FacebookExample[14027:2878062] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:15:37.173 FacebookExample[14027:2878062] THREAD WARNING: ['InAppBrowser'] took '109.871094' ms. Plugin should use a background thread.
+2015-06-21 13:16:39.147 FacebookExample[14296:2884676] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:16:39.148 FacebookExample[14296:2884676] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:16:39.252 FacebookExample[14296:2884676] Unlimited access to network resources
+2015-06-21 13:16:39.406 FacebookExample[14296:2884676] [CDVTimer][keyboard] 0.055015ms
+2015-06-21 13:16:39.406 FacebookExample[14296:2884676] [CDVTimer][TotalPluginStartup] 0.242054ms
+2015-06-21 13:16:39.756 FacebookExample[14296:2884676] Resetting plugins due to page load.
+2015-06-21 13:16:40.118 FacebookExample[14296:2884676] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:20:49.888 FacebookExample[14296:2884676] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:20:49.925 FacebookExample[14296:2884676] THREAD WARNING: ['InAppBrowser'] took '174.000977' ms. Plugin should use a background thread.
+2015-06-21 13:21:10.354 FacebookExample[14296:2884676] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:21:10.357 FacebookExample[14296:2884676] THREAD WARNING: ['InAppBrowser'] took '56.528809' ms. Plugin should use a background thread.
+2015-06-21 13:24:07.584 FacebookExample[14608:2927914] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:24:07.584 FacebookExample[14608:2927914] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:24:07.595 FacebookExample[14608:2927914] Unlimited access to network resources
+2015-06-21 13:24:07.745 FacebookExample[14608:2927914] [CDVTimer][keyboard] 0.075042ms
+2015-06-21 13:24:07.745 FacebookExample[14608:2927914] [CDVTimer][TotalPluginStartup] 0.289977ms
+2015-06-21 13:24:08.631 FacebookExample[14608:2927914] Resetting plugins due to page load.
+2015-06-21 13:24:09.229 FacebookExample[14608:2927914] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:24:14.583 FacebookExample[14608:2927914] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:24:14.588 FacebookExample[14608:2927914] THREAD WARNING: ['InAppBrowser'] took '97.637939' ms. Plugin should use a background thread.
+2015-06-21 13:26:36.391 FacebookExample[14884:2937986] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:26:36.392 FacebookExample[14884:2937986] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:26:36.407 FacebookExample[14884:2937986] Unlimited access to network resources
+2015-06-21 13:26:36.563 FacebookExample[14884:2937986] [CDVTimer][keyboard] 0.062943ms
+2015-06-21 13:26:36.563 FacebookExample[14884:2937986] [CDVTimer][TotalPluginStartup] 0.245035ms
+2015-06-21 13:26:36.660 FacebookExample[14884:2937986] Resetting plugins due to page load.
+2015-06-21 13:26:37.007 FacebookExample[14884:2937986] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:26:42.895 FacebookExample[14884:2937986] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:26:42.900 FacebookExample[14884:2937986] THREAD WARNING: ['InAppBrowser'] took '99.566162' ms. Plugin should use a background thread.
+2015-06-21 13:29:39.723 FacebookExample[15164:2958585] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:29:39.736 FacebookExample[15164:2958585] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:29:39.749 FacebookExample[15164:2958585] Unlimited access to network resources
+2015-06-21 13:29:39.845 FacebookExample[15164:2958585] [CDVTimer][keyboard] 0.061035ms
+2015-06-21 13:29:39.845 FacebookExample[15164:2958585] [CDVTimer][TotalPluginStartup] 0.247002ms
+2015-06-21 13:29:40.284 FacebookExample[15164:2958585] Resetting plugins due to page load.
+2015-06-21 13:29:40.790 FacebookExample[15164:2958585] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:29:46.600 FacebookExample[15164:2958585] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:29:46.605 FacebookExample[15164:2958585] THREAD WARNING: ['InAppBrowser'] took '134.124756' ms. Plugin should use a background thread.
+2015-06-21 13:35:00.591 FacebookExample[15599:2984194] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:35:00.652 FacebookExample[15599:2984194] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:35:00.672 FacebookExample[15599:2984194] Unlimited access to network resources
+2015-06-21 13:35:00.993 FacebookExample[15599:2984194] [CDVTimer][keyboard] 0.056028ms
+2015-06-21 13:35:00.993 FacebookExample[15599:2984194] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-21 13:35:02.249 FacebookExample[15599:2984194] Resetting plugins due to page load.
+2015-06-21 13:35:03.028 FacebookExample[15599:2984194] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:48:28.836 FacebookExample[15599:2984194] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:48:28.857 FacebookExample[15599:2984194] THREAD WARNING: ['InAppBrowser'] took '204.254883' ms. Plugin should use a background thread.
+2015-06-21 13:50:46.111 FacebookExample[15999:3052249] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:50:46.124 FacebookExample[15999:3052249] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:50:46.133 FacebookExample[15999:3052249] Unlimited access to network resources
+2015-06-21 13:50:46.251 FacebookExample[15999:3052249] [CDVTimer][keyboard] 0.056982ms
+2015-06-21 13:50:46.251 FacebookExample[15999:3052249] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-06-21 13:50:46.702 FacebookExample[15999:3052249] Resetting plugins due to page load.
+2015-06-21 13:50:47.201 FacebookExample[15999:3052249] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:52:00.791 FacebookExample[15999:3052249] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:52:00.797 FacebookExample[15999:3052249] THREAD WARNING: ['InAppBrowser'] took '95.194092' ms. Plugin should use a background thread.
+2015-06-21 13:54:03.399 FacebookExample[16278:3068736] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 13:54:03.400 FacebookExample[16278:3068736] Multi-tasking -> Device: YES, App: YES
+2015-06-21 13:54:03.413 FacebookExample[16278:3068736] Unlimited access to network resources
+2015-06-21 13:54:03.538 FacebookExample[16278:3068736] [CDVTimer][keyboard] 0.056028ms
+2015-06-21 13:54:03.538 FacebookExample[16278:3068736] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-21 13:54:03.909 FacebookExample[16278:3068736] Resetting plugins due to page load.
+2015-06-21 13:54:04.377 FacebookExample[16278:3068736] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 13:54:12.654 FacebookExample[16278:3068736] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 13:54:12.659 FacebookExample[16278:3068736] THREAD WARNING: ['InAppBrowser'] took '172.189941' ms. Plugin should use a background thread.
+2015-06-21 14:03:22.351 FacebookExample[16602:3137587] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 14:03:22.363 FacebookExample[16602:3137587] Multi-tasking -> Device: YES, App: YES
+2015-06-21 14:03:22.373 FacebookExample[16602:3137587] Unlimited access to network resources
+2015-06-21 14:03:22.495 FacebookExample[16602:3137587] [CDVTimer][keyboard] 0.060976ms
+2015-06-21 14:03:22.495 FacebookExample[16602:3137587] [CDVTimer][TotalPluginStartup] 0.249982ms
+2015-06-21 14:03:23.041 FacebookExample[16602:3137587] Resetting plugins due to page load.
+2015-06-21 14:03:23.569 FacebookExample[16602:3137587] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 14:04:41.201 FacebookExample[16602:3137587] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 14:04:41.250 FacebookExample[16602:3137587] THREAD WARNING: ['InAppBrowser'] took '169.348145' ms. Plugin should use a background thread.
+2015-06-21 14:07:02.363 FacebookExample[16887:3154487] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 14:07:02.396 FacebookExample[16887:3154487] Multi-tasking -> Device: YES, App: YES
+2015-06-21 14:07:02.412 FacebookExample[16887:3154487] Unlimited access to network resources
+2015-06-21 14:07:02.573 FacebookExample[16887:3154487] [CDVTimer][keyboard] 0.078022ms
+2015-06-21 14:07:02.573 FacebookExample[16887:3154487] [CDVTimer][TotalPluginStartup] 0.283003ms
+2015-06-21 14:07:03.334 FacebookExample[16887:3154487] Resetting plugins due to page load.
+2015-06-21 14:07:03.829 FacebookExample[16887:3154487] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 14:07:12.194 FacebookExample[16887:3154487] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 14:07:12.200 FacebookExample[16887:3154487] THREAD WARNING: ['InAppBrowser'] took '89.803955' ms. Plugin should use a background thread.
+2015-06-21 14:08:46.700 FacebookExample[17158:3165319] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 14:08:46.724 FacebookExample[17158:3165319] Multi-tasking -> Device: YES, App: YES
+2015-06-21 14:08:46.742 FacebookExample[17158:3165319] Unlimited access to network resources
+2015-06-21 14:08:46.890 FacebookExample[17158:3165319] [CDVTimer][keyboard] 0.063002ms
+2015-06-21 14:08:46.890 FacebookExample[17158:3165319] [CDVTimer][TotalPluginStartup] 0.262022ms
+2015-06-21 14:08:47.580 FacebookExample[17158:3165319] Resetting plugins due to page load.
+2015-06-21 14:08:48.217 FacebookExample[17158:3165319] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 14:10:49.520 FacebookExample[17158:3165319] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 14:10:49.526 FacebookExample[17158:3165319] THREAD WARNING: ['InAppBrowser'] took '142.085938' ms. Plugin should use a background thread.
+2015-06-21 14:14:34.785 FacebookExample[17456:3191802] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 14:14:34.798 FacebookExample[17456:3191802] Multi-tasking -> Device: YES, App: YES
+2015-06-21 14:14:34.808 FacebookExample[17456:3191802] Unlimited access to network resources
+2015-06-21 14:14:34.920 FacebookExample[17456:3191802] [CDVTimer][keyboard] 0.055015ms
+2015-06-21 14:14:34.920 FacebookExample[17456:3191802] [CDVTimer][TotalPluginStartup] 0.239015ms
+2015-06-21 14:14:35.454 FacebookExample[17456:3191802] Resetting plugins due to page load.
+2015-06-21 14:14:35.992 FacebookExample[17456:3191802] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 14:14:45.285 FacebookExample[17456:3191802] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 14:14:45.290 FacebookExample[17456:3191802] THREAD WARNING: ['InAppBrowser'] took '105.555908' ms. Plugin should use a background thread.
+2015-06-21 14:17:01.070 FacebookExample[17742:3208845] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 14:17:01.094 FacebookExample[17742:3208845] Multi-tasking -> Device: YES, App: YES
+2015-06-21 14:17:01.130 FacebookExample[17742:3208845] Unlimited access to network resources
+2015-06-21 14:17:01.328 FacebookExample[17742:3208845] [CDVTimer][keyboard] 0.066996ms
+2015-06-21 14:17:01.328 FacebookExample[17742:3208845] [CDVTimer][TotalPluginStartup] 0.250995ms
+2015-06-21 14:17:02.729 FacebookExample[17742:3208845] Resetting plugins due to page load.
+2015-06-21 14:17:03.350 FacebookExample[17742:3208845] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 14:17:13.519 FacebookExample[17742:3208845] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 14:17:13.525 FacebookExample[17742:3208845] THREAD WARNING: ['InAppBrowser'] took '231.955078' ms. Plugin should use a background thread.
+2015-06-21 14:27:54.738 FacebookExample[18070:3242964] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 14:27:54.751 FacebookExample[18070:3242964] Multi-tasking -> Device: YES, App: YES
+2015-06-21 14:27:54.768 FacebookExample[18070:3242964] Unlimited access to network resources
+2015-06-21 14:27:54.873 FacebookExample[18070:3242964] [CDVTimer][keyboard] 0.059009ms
+2015-06-21 14:27:54.873 FacebookExample[18070:3242964] [CDVTimer][TotalPluginStartup] 0.243962ms
+2015-06-21 14:27:55.385 FacebookExample[18070:3242964] Resetting plugins due to page load.
+2015-06-21 14:27:55.912 FacebookExample[18070:3242964] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-21 14:28:04.741 FacebookExample[18070:3242964] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-21 14:28:04.746 FacebookExample[18070:3242964] THREAD WARNING: ['InAppBrowser'] took '115.549072' ms. Plugin should use a background thread.
+2015-06-21 14:29:28.787 FacebookExample[18339:3252251] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-21 14:29:28.800 FacebookExample[18339:3252251] Multi-tasking -> Device: YES, App: YES
+2015-06-21 14:29:28.813 FacebookExample[18339:3252251] Unlimited access to network resources
+2015-06-21 14:29:28.922 FacebookExample[18339:3252251] [CDVTimer][keyboard] 0.069976ms
+2015-06-21 14:29:28.922 FacebookExample[18339:3252251] [CDVTimer][TotalPluginStartup] 0.271976ms
+2015-06-21 14:29:29.269 FacebookExample[18339:3252251] Resetting plugins due to page load.
+2015-06-21 14:29:29.643 FacebookExample[18339:3252251] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:10:51.723 FacebookExample[1662:149208] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:10:51.750 FacebookExample[1662:149208] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:10:51.818 FacebookExample[1662:149208] Unlimited access to network resources
+2015-06-26 10:10:54.797 FacebookExample[1662:149208] [CDVTimer][keyboard] 0.056982ms
+2015-06-26 10:10:54.797 FacebookExample[1662:149208] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-26 10:10:56.561 FacebookExample[1662:149208] Resetting plugins due to page load.
+2015-06-26 10:10:59.793 FacebookExample[1662:149208] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:12:29.287 FacebookExample[1662:149208] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:12:29.424 FacebookExample[1662:149208] THREAD WARNING: ['InAppBrowser'] took '989.825928' ms. Plugin should use a background thread.
+2015-06-26 10:14:27.199 FacebookExample[1845:164659] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/johncarroll/Library/Developer/CoreSimulator/Devices/B50A097C-A849-48F1-9E60-DE4FD85D2C70/data/Containers/Data/Application/84A3C64E-0AFD-44D6-BCFC-E15FD3EA5973/Library/Cookies/Cookies.binarycookies
+2015-06-26 10:14:27.482 FacebookExample[1845:164659] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:14:27.483 FacebookExample[1845:164659] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:14:27.493 FacebookExample[1845:164659] Unlimited access to network resources
+2015-06-26 10:14:27.634 FacebookExample[1845:164659] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 10:14:27.634 FacebookExample[1845:164659] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-26 10:14:28.808 FacebookExample[1845:164659] Resetting plugins due to page load.
+2015-06-26 10:14:29.494 FacebookExample[1845:164659] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:17:53.542 FacebookExample[1845:164659] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:17:53.569 FacebookExample[1845:164659] THREAD WARNING: ['InAppBrowser'] took '140.144775' ms. Plugin should use a background thread.
+2015-06-26 10:20:59.495 FacebookExample[2330:212920] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:20:59.508 FacebookExample[2330:212920] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:20:59.522 FacebookExample[2330:212920] Unlimited access to network resources
+2015-06-26 10:20:59.634 FacebookExample[2330:212920] [CDVTimer][keyboard] 0.060976ms
+2015-06-26 10:20:59.634 FacebookExample[2330:212920] [CDVTimer][TotalPluginStartup] 0.266016ms
+2015-06-26 10:20:59.985 FacebookExample[2330:212920] Resetting plugins due to page load.
+2015-06-26 10:21:00.395 FacebookExample[2330:212920] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:21:08.350 FacebookExample[2330:212920] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:21:08.355 FacebookExample[2330:212920] THREAD WARNING: ['InAppBrowser'] took '82.353027' ms. Plugin should use a background thread.
+2015-06-26 10:23:00.908 FacebookExample[2625:225185] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:23:00.925 FacebookExample[2625:225185] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:23:00.937 FacebookExample[2625:225185] Unlimited access to network resources
+2015-06-26 10:23:01.074 FacebookExample[2625:225185] [CDVTimer][keyboard] 0.057042ms
+2015-06-26 10:23:01.074 FacebookExample[2625:225185] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-06-26 10:23:01.423 FacebookExample[2625:225185] Resetting plugins due to page load.
+2015-06-26 10:23:01.801 FacebookExample[2625:225185] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:23:11.145 FacebookExample[2625:225185] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:23:11.150 FacebookExample[2625:225185] THREAD WARNING: ['InAppBrowser'] took '95.467773' ms. Plugin should use a background thread.
+2015-06-26 10:24:47.377 FacebookExample[2901:235948] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:24:47.378 FacebookExample[2901:235948] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:24:47.384 FacebookExample[2901:235948] Unlimited access to network resources
+2015-06-26 10:24:47.488 FacebookExample[2901:235948] [CDVTimer][keyboard] 0.056982ms
+2015-06-26 10:24:47.488 FacebookExample[2901:235948] [CDVTimer][TotalPluginStartup] 0.262976ms
+2015-06-26 10:24:47.551 FacebookExample[2901:235948] Resetting plugins due to page load.
+2015-06-26 10:24:47.929 FacebookExample[2901:235948] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:25:25.238 FacebookExample[2901:235962] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-26 10:25:28.346 FacebookExample[2901:235948] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:25:28.351 FacebookExample[2901:235948] THREAD WARNING: ['InAppBrowser'] took '66.924072' ms. Plugin should use a background thread.
+2015-06-26 10:26:44.627 FacebookExample[3185:247014] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:26:44.649 FacebookExample[3185:247014] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:26:44.662 FacebookExample[3185:247014] Unlimited access to network resources
+2015-06-26 10:26:44.809 FacebookExample[3185:247014] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 10:26:44.809 FacebookExample[3185:247014] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-26 10:26:45.291 FacebookExample[3185:247014] Resetting plugins due to page load.
+2015-06-26 10:26:45.681 FacebookExample[3185:247014] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:27:19.837 FacebookExample[3185:247014] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:27:19.843 FacebookExample[3185:247014] THREAD WARNING: ['InAppBrowser'] took '125.604248' ms. Plugin should use a background thread.
+2015-06-26 10:28:13.571 FacebookExample[3461:252424] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:28:13.572 FacebookExample[3461:252424] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:28:13.584 FacebookExample[3461:252424] Unlimited access to network resources
+2015-06-26 10:28:13.686 FacebookExample[3461:252424] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 10:28:13.687 FacebookExample[3461:252424] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-06-26 10:28:14.013 FacebookExample[3461:252424] Resetting plugins due to page load.
+2015-06-26 10:28:14.375 FacebookExample[3461:252424] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:28:41.798 FacebookExample[3461:252424] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:28:41.803 FacebookExample[3461:252424] THREAD WARNING: ['InAppBrowser'] took '105.859131' ms. Plugin should use a background thread.
+2015-06-26 10:30:16.624 FacebookExample[3741:261844] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:30:16.625 FacebookExample[3741:261844] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:30:16.635 FacebookExample[3741:261844] Unlimited access to network resources
+2015-06-26 10:30:16.738 FacebookExample[3741:261844] [CDVTimer][keyboard] 0.061035ms
+2015-06-26 10:30:16.738 FacebookExample[3741:261844] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-26 10:30:17.149 FacebookExample[3741:261844] Resetting plugins due to page load.
+2015-06-26 10:30:17.837 FacebookExample[3741:261844] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:30:26.770 FacebookExample[3741:261844] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:30:26.775 FacebookExample[3741:261844] THREAD WARNING: ['InAppBrowser'] took '137.254150' ms. Plugin should use a background thread.
+2015-06-26 10:33:28.975 FacebookExample[4032:284065] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:33:28.992 FacebookExample[4032:284065] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:33:29.004 FacebookExample[4032:284065] Unlimited access to network resources
+2015-06-26 10:33:29.115 FacebookExample[4032:284065] [CDVTimer][keyboard] 0.062943ms
+2015-06-26 10:33:29.116 FacebookExample[4032:284065] [CDVTimer][TotalPluginStartup] 0.266016ms
+2015-06-26 10:33:29.434 FacebookExample[4032:284065] Resetting plugins due to page load.
+2015-06-26 10:33:29.801 FacebookExample[4032:284065] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:34:28.225 FacebookExample[4032:284065] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:34:28.230 FacebookExample[4032:284065] THREAD WARNING: ['InAppBrowser'] took '109.822021' ms. Plugin should use a background thread.
+2015-06-26 10:36:46.321 FacebookExample[4317:293415] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:36:46.321 FacebookExample[4317:293415] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:36:46.338 FacebookExample[4317:293415] Unlimited access to network resources
+2015-06-26 10:36:46.415 FacebookExample[4317:293415] [CDVTimer][keyboard] 0.055969ms
+2015-06-26 10:36:46.415 FacebookExample[4317:293415] [CDVTimer][TotalPluginStartup] 0.260949ms
+2015-06-26 10:36:46.479 FacebookExample[4317:293415] Resetting plugins due to page load.
+2015-06-26 10:36:46.803 FacebookExample[4317:293415] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:36:57.514 FacebookExample[4317:293415] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:36:57.519 FacebookExample[4317:293415] THREAD WARNING: ['InAppBrowser'] took '73.082031' ms. Plugin should use a background thread.
+2015-06-26 10:37:34.976 FacebookExample[4317:293488] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-26 10:37:55.343 FacebookExample[4591:301046] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:37:55.345 FacebookExample[4591:301046] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:37:55.354 FacebookExample[4591:301046] Unlimited access to network resources
+2015-06-26 10:37:55.461 FacebookExample[4591:301046] [CDVTimer][keyboard] 0.057042ms
+2015-06-26 10:37:55.461 FacebookExample[4591:301046] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-26 10:37:55.524 FacebookExample[4591:301046] Resetting plugins due to page load.
+2015-06-26 10:37:55.840 FacebookExample[4591:301046] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:38:04.498 FacebookExample[4591:301046] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:38:04.503 FacebookExample[4591:301046] THREAD WARNING: ['InAppBrowser'] took '64.737061' ms. Plugin should use a background thread.
+2015-06-26 10:39:21.050 FacebookExample[4869:309678] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:39:21.051 FacebookExample[4869:309678] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:39:21.054 FacebookExample[4869:309678] Unlimited access to network resources
+2015-06-26 10:39:21.157 FacebookExample[4869:309678] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 10:39:21.158 FacebookExample[4869:309678] [CDVTimer][TotalPluginStartup] 0.261962ms
+2015-06-26 10:39:21.219 FacebookExample[4869:309678] Resetting plugins due to page load.
+2015-06-26 10:39:21.561 FacebookExample[4869:309678] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:39:33.926 FacebookExample[4869:309678] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:39:33.931 FacebookExample[4869:309678] THREAD WARNING: ['InAppBrowser'] took '64.781738' ms. Plugin should use a background thread.
+2015-06-26 10:41:01.448 FacebookExample[5146:318520] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:41:01.449 FacebookExample[5146:318520] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:41:01.459 FacebookExample[5146:318520] Unlimited access to network resources
+2015-06-26 10:41:01.559 FacebookExample[5146:318520] [CDVTimer][keyboard] 0.059962ms
+2015-06-26 10:41:01.559 FacebookExample[5146:318520] [CDVTimer][TotalPluginStartup] 0.243962ms
+2015-06-26 10:41:01.929 FacebookExample[5146:318520] Resetting plugins due to page load.
+2015-06-26 10:41:02.292 FacebookExample[5146:318520] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:41:39.192 FacebookExample[5146:318520] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:41:39.198 FacebookExample[5146:318520] THREAD WARNING: ['InAppBrowser'] took '106.194824' ms. Plugin should use a background thread.
+2015-06-26 10:45:01.460 FacebookExample[5146:318549] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-26 10:45:58.950 FacebookExample[5456:346598] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:45:58.964 FacebookExample[5456:346598] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:45:58.973 FacebookExample[5456:346598] Unlimited access to network resources
+2015-06-26 10:45:59.074 FacebookExample[5456:346598] [CDVTimer][keyboard] 0.069976ms
+2015-06-26 10:45:59.075 FacebookExample[5456:346598] [CDVTimer][TotalPluginStartup] 0.256002ms
+2015-06-26 10:45:59.418 FacebookExample[5456:346598] Resetting plugins due to page load.
+2015-06-26 10:45:59.862 FacebookExample[5456:346598] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:46:06.584 FacebookExample[5456:346598] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:46:06.589 FacebookExample[5456:346598] THREAD WARNING: ['InAppBrowser'] took '82.620117' ms. Plugin should use a background thread.
+2015-06-26 10:48:26.804 FacebookExample[5738:361128] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:48:26.805 FacebookExample[5738:361128] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:48:26.819 FacebookExample[5738:361128] Unlimited access to network resources
+2015-06-26 10:48:26.929 FacebookExample[5738:361128] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 10:48:26.930 FacebookExample[5738:361128] [CDVTimer][TotalPluginStartup] 0.247955ms
+2015-06-26 10:48:27.240 FacebookExample[5738:361128] Resetting plugins due to page load.
+2015-06-26 10:48:27.629 FacebookExample[5738:361128] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:48:32.820 FacebookExample[5738:361128] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:48:32.826 FacebookExample[5738:361128] THREAD WARNING: ['InAppBrowser'] took '91.008057' ms. Plugin should use a background thread.
+2015-06-26 10:54:26.899 FacebookExample[6063:399307] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 10:54:26.961 FacebookExample[6063:399307] Multi-tasking -> Device: YES, App: YES
+2015-06-26 10:54:26.987 FacebookExample[6063:399307] Unlimited access to network resources
+2015-06-26 10:54:27.316 FacebookExample[6063:399307] [CDVTimer][keyboard] 0.054955ms
+2015-06-26 10:54:27.316 FacebookExample[6063:399307] [CDVTimer][TotalPluginStartup] 0.237048ms
+2015-06-26 10:54:29.307 FacebookExample[6063:399307] Resetting plugins due to page load.
+2015-06-26 10:54:30.155 FacebookExample[6063:399307] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 10:59:32.842 FacebookExample[6063:399307] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 10:59:32.872 FacebookExample[6063:399307] THREAD WARNING: ['InAppBrowser'] took '199.159180' ms. Plugin should use a background thread.
+2015-06-26 11:01:43.537 FacebookExample[6063:399628] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-26 11:04:00.775 FacebookExample[6063:399307] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:04:00.777 FacebookExample[6063:399307] THREAD WARNING: ['InAppBrowser'] took '56.684082' ms. Plugin should use a background thread.
+2015-06-26 11:05:50.552 FacebookExample[6670:432374] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:05:50.558 FacebookExample[6670:432374] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:05:50.567 FacebookExample[6670:432374] Unlimited access to network resources
+2015-06-26 11:05:50.708 FacebookExample[6670:432374] [CDVTimer][keyboard] 0.091016ms
+2015-06-26 11:05:50.708 FacebookExample[6670:432374] [CDVTimer][TotalPluginStartup] 0.414014ms
+2015-06-26 11:05:51.245 FacebookExample[6670:432374] Resetting plugins due to page load.
+2015-06-26 11:05:51.779 FacebookExample[6670:432374] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:07:53.450 FacebookExample[6670:432374] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:07:53.456 FacebookExample[6670:432374] THREAD WARNING: ['InAppBrowser'] took '111.789795' ms. Plugin should use a background thread.
+2015-06-26 11:09:06.722 FacebookExample[6959:441506] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:09:06.746 FacebookExample[6959:441506] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:09:06.755 FacebookExample[6959:441506] Unlimited access to network resources
+2015-06-26 11:09:07.011 FacebookExample[6959:441506] [CDVTimer][keyboard] 0.057042ms
+2015-06-26 11:09:07.011 FacebookExample[6959:441506] [CDVTimer][TotalPluginStartup] 0.236034ms
+2015-06-26 11:09:07.609 FacebookExample[6959:441506] Resetting plugins due to page load.
+2015-06-26 11:09:07.988 FacebookExample[6959:441506] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:09:27.733 FacebookExample[6959:441506] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:09:27.739 FacebookExample[6959:441506] THREAD WARNING: ['InAppBrowser'] took '87.031006' ms. Plugin should use a background thread.
+2015-06-26 11:11:47.862 FacebookExample[7247:455074] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:11:47.877 FacebookExample[7247:455074] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:11:47.890 FacebookExample[7247:455074] Unlimited access to network resources
+2015-06-26 11:11:47.997 FacebookExample[7247:455074] [CDVTimer][keyboard] 0.069976ms
+2015-06-26 11:11:47.997 FacebookExample[7247:455074] [CDVTimer][TotalPluginStartup] 0.250995ms
+2015-06-26 11:11:48.314 FacebookExample[7247:455074] Resetting plugins due to page load.
+2015-06-26 11:11:48.653 FacebookExample[7247:455074] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:12:00.129 FacebookExample[7247:455074] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:12:00.135 FacebookExample[7247:455074] THREAD WARNING: ['InAppBrowser'] took '66.247314' ms. Plugin should use a background thread.
+2015-06-26 11:12:59.562 FacebookExample[7520:462201] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:12:59.563 FacebookExample[7520:462201] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:12:59.584 FacebookExample[7520:462201] Unlimited access to network resources
+2015-06-26 11:12:59.696 FacebookExample[7520:462201] [CDVTimer][keyboard] 0.055969ms
+2015-06-26 11:12:59.697 FacebookExample[7520:462201] [CDVTimer][TotalPluginStartup] 0.236988ms
+2015-06-26 11:12:59.757 FacebookExample[7520:462201] Resetting plugins due to page load.
+2015-06-26 11:13:00.131 FacebookExample[7520:462201] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:13:05.622 FacebookExample[7520:462201] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:13:05.628 FacebookExample[7520:462201] THREAD WARNING: ['InAppBrowser'] took '95.287109' ms. Plugin should use a background thread.
+2015-06-26 11:14:25.428 FacebookExample[7796:468237] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:14:25.429 FacebookExample[7796:468237] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:14:25.443 FacebookExample[7796:468237] Unlimited access to network resources
+2015-06-26 11:14:25.551 FacebookExample[7796:468237] [CDVTimer][keyboard] 0.060022ms
+2015-06-26 11:14:25.551 FacebookExample[7796:468237] [CDVTimer][TotalPluginStartup] 0.268042ms
+2015-06-26 11:14:25.933 FacebookExample[7796:468237] Resetting plugins due to page load.
+2015-06-26 11:14:26.372 FacebookExample[7796:468237] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:14:55.994 FacebookExample[7796:468237] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:14:56.000 FacebookExample[7796:468237] THREAD WARNING: ['InAppBrowser'] took '76.374023' ms. Plugin should use a background thread.
+2015-06-26 11:17:12.959 FacebookExample[8087:487215] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:17:12.972 FacebookExample[8087:487215] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:17:12.979 FacebookExample[8087:487215] Unlimited access to network resources
+2015-06-26 11:17:13.082 FacebookExample[8087:487215] [CDVTimer][keyboard] 0.060976ms
+2015-06-26 11:17:13.082 FacebookExample[8087:487215] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-26 11:17:13.409 FacebookExample[8087:487215] Resetting plugins due to page load.
+2015-06-26 11:17:13.770 FacebookExample[8087:487215] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:17:19.114 FacebookExample[8087:487215] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:17:19.119 FacebookExample[8087:487215] THREAD WARNING: ['InAppBrowser'] took '87.328857' ms. Plugin should use a background thread.
+2015-06-26 11:19:43.624 FacebookExample[8498:502104] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:19:43.637 FacebookExample[8498:502104] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:19:43.649 FacebookExample[8498:502104] Unlimited access to network resources
+2015-06-26 11:19:43.746 FacebookExample[8498:502104] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 11:19:43.746 FacebookExample[8498:502104] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-06-26 11:19:44.057 FacebookExample[8498:502104] Resetting plugins due to page load.
+2015-06-26 11:19:44.412 FacebookExample[8498:502104] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:19:49.556 FacebookExample[8498:502104] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:19:49.561 FacebookExample[8498:502104] THREAD WARNING: ['InAppBrowser'] took '112.431152' ms. Plugin should use a background thread.
+2015-06-26 11:42:15.203 FacebookExample[8498:502449] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-26 11:42:25.050 FacebookExample[8878:526951] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:42:25.063 FacebookExample[8878:526951] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:42:25.075 FacebookExample[8878:526951] Unlimited access to network resources
+2015-06-26 11:42:25.184 FacebookExample[8878:526951] [CDVTimer][keyboard] 0.055969ms
+2015-06-26 11:42:25.184 FacebookExample[8878:526951] [CDVTimer][TotalPluginStartup] 0.237048ms
+2015-06-26 11:42:25.578 FacebookExample[8878:526951] Resetting plugins due to page load.
+2015-06-26 11:42:26.183 FacebookExample[8878:526951] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:42:41.706 FacebookExample[8878:526951] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:42:41.712 FacebookExample[8878:526951] THREAD WARNING: ['InAppBrowser'] took '157.494141' ms. Plugin should use a background thread.
+2015-06-26 11:45:41.815 FacebookExample[9165:550707] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:45:41.816 FacebookExample[9165:550707] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:45:41.840 FacebookExample[9165:550707] Unlimited access to network resources
+2015-06-26 11:45:41.983 FacebookExample[9165:550707] [CDVTimer][keyboard] 0.058949ms
+2015-06-26 11:45:41.983 FacebookExample[9165:550707] [CDVTimer][TotalPluginStartup] 0.240982ms
+2015-06-26 11:45:42.384 FacebookExample[9165:550707] Resetting plugins due to page load.
+2015-06-26 11:45:42.783 FacebookExample[9165:550707] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:46:13.769 FacebookExample[9435:554559] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:46:13.770 FacebookExample[9435:554559] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:46:13.781 FacebookExample[9435:554559] Unlimited access to network resources
+2015-06-26 11:46:13.883 FacebookExample[9435:554559] [CDVTimer][keyboard] 0.073016ms
+2015-06-26 11:46:13.883 FacebookExample[9435:554559] [CDVTimer][TotalPluginStartup] 0.316024ms
+2015-06-26 11:46:13.946 FacebookExample[9435:554559] Resetting plugins due to page load.
+2015-06-26 11:46:14.271 FacebookExample[9435:554559] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:46:19.895 FacebookExample[9435:554559] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:46:19.901 FacebookExample[9435:554559] THREAD WARNING: ['InAppBrowser'] took '86.739014' ms. Plugin should use a background thread.
+2015-06-26 11:49:02.540 FacebookExample[9722:567269] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:49:02.541 FacebookExample[9722:567269] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:49:02.543 FacebookExample[9722:567269] Unlimited access to network resources
+2015-06-26 11:49:02.674 FacebookExample[9722:567269] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 11:49:02.674 FacebookExample[9722:567269] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-26 11:49:03.011 FacebookExample[9722:567269] Resetting plugins due to page load.
+2015-06-26 11:49:03.362 FacebookExample[9722:567269] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:49:57.452 FacebookExample[9995:574029] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:49:57.453 FacebookExample[9995:574029] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:49:57.465 FacebookExample[9995:574029] Unlimited access to network resources
+2015-06-26 11:49:57.591 FacebookExample[9995:574029] [CDVTimer][keyboard] 0.101984ms
+2015-06-26 11:49:57.591 FacebookExample[9995:574029] [CDVTimer][TotalPluginStartup] 0.389040ms
+2015-06-26 11:49:57.653 FacebookExample[9995:574029] Resetting plugins due to page load.
+2015-06-26 11:49:57.989 FacebookExample[9995:574029] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:50:02.502 FacebookExample[9995:574029] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 11:50:02.507 FacebookExample[9995:574029] THREAD WARNING: ['InAppBrowser'] took '87.303955' ms. Plugin should use a background thread.
+2015-06-26 11:54:16.813 FacebookExample[10299:608226] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:54:16.814 FacebookExample[10299:608226] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:54:16.832 FacebookExample[10299:608226] Unlimited access to network resources
+2015-06-26 11:54:16.959 FacebookExample[10299:608226] [CDVTimer][keyboard] 0.097990ms
+2015-06-26 11:54:16.959 FacebookExample[10299:608226] [CDVTimer][TotalPluginStartup] 0.306010ms
+2015-06-26 11:54:17.019 FacebookExample[10299:608226] Resetting plugins due to page load.
+2015-06-26 11:54:17.363 FacebookExample[10299:608226] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 11:57:01.667 FacebookExample[10599:623702] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 11:57:01.679 FacebookExample[10599:623702] Multi-tasking -> Device: YES, App: YES
+2015-06-26 11:57:01.694 FacebookExample[10599:623702] Unlimited access to network resources
+2015-06-26 11:57:01.800 FacebookExample[10599:623702] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 11:57:01.800 FacebookExample[10599:623702] [CDVTimer][TotalPluginStartup] 0.239015ms
+2015-06-26 11:57:02.137 FacebookExample[10599:623702] Resetting plugins due to page load.
+2015-06-26 11:57:02.500 FacebookExample[10599:623702] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 12:00:11.328 FacebookExample[10885:636101] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 12:00:11.329 FacebookExample[10885:636101] Multi-tasking -> Device: YES, App: YES
+2015-06-26 12:00:11.339 FacebookExample[10885:636101] Unlimited access to network resources
+2015-06-26 12:00:11.439 FacebookExample[10885:636101] [CDVTimer][keyboard] 0.059962ms
+2015-06-26 12:00:11.439 FacebookExample[10885:636101] [CDVTimer][TotalPluginStartup] 0.273049ms
+2015-06-26 12:00:11.504 FacebookExample[10885:636101] Resetting plugins due to page load.
+2015-06-26 12:00:11.833 FacebookExample[10885:636101] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 12:01:10.956 FacebookExample[11159:642135] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 12:01:10.969 FacebookExample[11159:642135] Multi-tasking -> Device: YES, App: YES
+2015-06-26 12:01:10.978 FacebookExample[11159:642135] Unlimited access to network resources
+2015-06-26 12:01:11.079 FacebookExample[11159:642135] [CDVTimer][keyboard] 0.058949ms
+2015-06-26 12:01:11.079 FacebookExample[11159:642135] [CDVTimer][TotalPluginStartup] 0.245035ms
+2015-06-26 12:01:11.404 FacebookExample[11159:642135] Resetting plugins due to page load.
+2015-06-26 12:01:11.767 FacebookExample[11159:642135] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 12:02:09.016 FacebookExample[11159:642135] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 12:02:09.021 FacebookExample[11159:642135] THREAD WARNING: ['InAppBrowser'] took '103.497803' ms. Plugin should use a background thread.
+2015-06-26 12:03:18.901 FacebookExample[11442:650060] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 12:03:18.902 FacebookExample[11442:650060] Multi-tasking -> Device: YES, App: YES
+2015-06-26 12:03:18.916 FacebookExample[11442:650060] Unlimited access to network resources
+2015-06-26 12:03:19.027 FacebookExample[11442:650060] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 12:03:19.027 FacebookExample[11442:650060] [CDVTimer][TotalPluginStartup] 0.239968ms
+2015-06-26 12:03:19.368 FacebookExample[11442:650060] Resetting plugins due to page load.
+2015-06-26 12:03:19.735 FacebookExample[11442:650060] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 12:03:24.679 FacebookExample[11442:650060] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 12:03:24.684 FacebookExample[11442:650060] THREAD WARNING: ['InAppBrowser'] took '82.566895' ms. Plugin should use a background thread.
+2015-06-26 12:28:14.360 FacebookExample[12033:737711] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 12:28:14.361 FacebookExample[12033:737711] Multi-tasking -> Device: YES, App: YES
+2015-06-26 12:28:14.379 FacebookExample[12033:737711] Unlimited access to network resources
+2015-06-26 12:28:14.532 FacebookExample[12033:737711] [CDVTimer][keyboard] 0.056982ms
+2015-06-26 12:28:14.532 FacebookExample[12033:737711] [CDVTimer][TotalPluginStartup] 0.257015ms
+2015-06-26 12:28:15.660 FacebookExample[12033:737711] Resetting plugins due to page load.
+2015-06-26 12:28:16.257 FacebookExample[12033:737711] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 12:28:21.724 FacebookExample[12033:737711] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 12:28:21.729 FacebookExample[12033:737711] THREAD WARNING: ['InAppBrowser'] took '151.608887' ms. Plugin should use a background thread.
+2015-06-26 12:30:11.679 FacebookExample[12320:749674] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 12:30:11.680 FacebookExample[12320:749674] Multi-tasking -> Device: YES, App: YES
+2015-06-26 12:30:11.698 FacebookExample[12320:749674] Unlimited access to network resources
+2015-06-26 12:30:11.800 FacebookExample[12320:749674] [CDVTimer][keyboard] 0.060976ms
+2015-06-26 12:30:11.800 FacebookExample[12320:749674] [CDVTimer][TotalPluginStartup] 0.247002ms
+2015-06-26 12:30:12.269 FacebookExample[12320:749674] Resetting plugins due to page load.
+2015-06-26 12:30:12.633 FacebookExample[12320:749674] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 12:30:19.278 FacebookExample[12320:749674] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 12:30:19.283 FacebookExample[12320:749674] THREAD WARNING: ['InAppBrowser'] took '117.430908' ms. Plugin should use a background thread.
+2015-06-26 12:44:22.241 FacebookExample[12733:816192] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 12:44:22.242 FacebookExample[12733:816192] Multi-tasking -> Device: YES, App: YES
+2015-06-26 12:44:22.254 FacebookExample[12733:816192] Unlimited access to network resources
+2015-06-26 12:44:22.397 FacebookExample[12733:816192] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 12:44:22.398 FacebookExample[12733:816192] [CDVTimer][TotalPluginStartup] 0.238001ms
+2015-06-26 12:44:23.344 FacebookExample[12733:816192] Resetting plugins due to page load.
+2015-06-26 12:44:23.896 FacebookExample[12733:816192] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 12:45:18.466 FacebookExample[12733:816192] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 12:45:18.472 FacebookExample[12733:816192] THREAD WARNING: ['InAppBrowser'] took '152.478027' ms. Plugin should use a background thread.
+2015-06-26 13:25:02.142 FacebookExample[13277:973473] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:25:02.143 FacebookExample[13277:973473] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:25:02.152 FacebookExample[13277:973473] Unlimited access to network resources
+2015-06-26 13:25:02.277 FacebookExample[13277:973473] [CDVTimer][keyboard] 0.055015ms
+2015-06-26 13:25:02.278 FacebookExample[13277:973473] [CDVTimer][TotalPluginStartup] 0.243962ms
+2015-06-26 13:25:03.401 FacebookExample[13277:973473] Resetting plugins due to page load.
+2015-06-26 13:25:03.964 FacebookExample[13277:973473] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:26:15.591 FacebookExample[13548:978707] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:26:15.604 FacebookExample[13548:978707] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:26:15.619 FacebookExample[13548:978707] Unlimited access to network resources
+2015-06-26 13:26:15.725 FacebookExample[13548:978707] [CDVTimer][keyboard] 0.054002ms
+2015-06-26 13:26:15.726 FacebookExample[13548:978707] [CDVTimer][TotalPluginStartup] 0.240982ms
+2015-06-26 13:26:16.124 FacebookExample[13548:978707] Resetting plugins due to page load.
+2015-06-26 13:26:16.558 FacebookExample[13548:978707] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:27:15.115 FacebookExample[13819:984935] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:27:15.116 FacebookExample[13819:984935] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:27:15.132 FacebookExample[13819:984935] Unlimited access to network resources
+2015-06-26 13:27:15.284 FacebookExample[13819:984935] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 13:27:15.284 FacebookExample[13819:984935] [CDVTimer][TotalPluginStartup] 0.240982ms
+2015-06-26 13:27:16.042 FacebookExample[13819:984935] Resetting plugins due to page load.
+2015-06-26 13:27:16.584 FacebookExample[13819:984935] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:29:12.800 FacebookExample[14097:996500] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:29:12.811 FacebookExample[14097:996500] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:29:12.818 FacebookExample[14097:996500] Unlimited access to network resources
+2015-06-26 13:29:12.955 FacebookExample[14097:996500] [CDVTimer][keyboard] 0.084996ms
+2015-06-26 13:29:12.955 FacebookExample[14097:996500] [CDVTimer][TotalPluginStartup] 0.299990ms
+2015-06-26 13:29:13.913 FacebookExample[14097:996500] Resetting plugins due to page load.
+2015-06-26 13:29:14.420 FacebookExample[14097:996500] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:29:49.073 FacebookExample[14364:998211] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:29:49.074 FacebookExample[14364:998211] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:29:49.088 FacebookExample[14364:998211] Unlimited access to network resources
+2015-06-26 13:29:49.166 FacebookExample[14364:998211] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 13:29:49.166 FacebookExample[14364:998211] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-06-26 13:29:49.233 FacebookExample[14364:998211] Resetting plugins due to page load.
+2015-06-26 13:29:49.590 FacebookExample[14364:998211] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:32:05.860 FacebookExample[14645:1007615] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:32:05.916 FacebookExample[14645:1007615] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:32:06.015 FacebookExample[14645:1007615] Unlimited access to network resources
+2015-06-26 13:32:06.576 FacebookExample[14645:1007615] [CDVTimer][keyboard] 0.055969ms
+2015-06-26 13:32:06.576 FacebookExample[14645:1007615] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-26 13:32:07.531 FacebookExample[14645:1007615] Resetting plugins due to page load.
+2015-06-26 13:32:08.048 FacebookExample[14645:1007615] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:33:50.724 FacebookExample[14920:1015231] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:33:50.725 FacebookExample[14920:1015231] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:33:50.740 FacebookExample[14920:1015231] Unlimited access to network resources
+2015-06-26 13:33:50.823 FacebookExample[14920:1015231] [CDVTimer][keyboard] 0.073969ms
+2015-06-26 13:33:50.823 FacebookExample[14920:1015231] [CDVTimer][TotalPluginStartup] 0.271022ms
+2015-06-26 13:33:50.889 FacebookExample[14920:1015231] Resetting plugins due to page load.
+2015-06-26 13:33:51.241 FacebookExample[14920:1015231] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:35:17.234 FacebookExample[15193:1024223] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:35:17.325 FacebookExample[15193:1024223] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:35:17.343 FacebookExample[15193:1024223] Unlimited access to network resources
+2015-06-26 13:35:17.520 FacebookExample[15193:1024223] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 13:35:17.520 FacebookExample[15193:1024223] [CDVTimer][TotalPluginStartup] 0.258982ms
+2015-06-26 13:35:18.637 FacebookExample[15193:1024223] Resetting plugins due to page load.
+2015-06-26 13:35:19.101 FacebookExample[15193:1024223] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:37:07.239 FacebookExample[15484:1037746] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:37:07.240 FacebookExample[15484:1037746] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:37:07.259 FacebookExample[15484:1037746] Unlimited access to network resources
+2015-06-26 13:37:07.401 FacebookExample[15484:1037746] [CDVTimer][keyboard] 0.063002ms
+2015-06-26 13:37:07.401 FacebookExample[15484:1037746] [CDVTimer][TotalPluginStartup] 0.257969ms
+2015-06-26 13:37:08.629 FacebookExample[15484:1037746] Resetting plugins due to page load.
+2015-06-26 13:37:09.267 FacebookExample[15484:1037746] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:53:22.704 FacebookExample[15865:1141198] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:53:22.705 FacebookExample[15865:1141198] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:53:22.724 FacebookExample[15865:1141198] Unlimited access to network resources
+2015-06-26 13:53:22.943 FacebookExample[15865:1141198] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 13:53:22.944 FacebookExample[15865:1141198] [CDVTimer][TotalPluginStartup] 0.240982ms
+2015-06-26 13:53:24.547 FacebookExample[15865:1141198] Resetting plugins due to page load.
+2015-06-26 13:53:25.462 FacebookExample[15865:1141198] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:56:03.533 FacebookExample[16150:1159321] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:56:03.549 FacebookExample[16150:1159321] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:56:03.602 FacebookExample[16150:1159321] Unlimited access to network resources
+2015-06-26 13:56:03.714 FacebookExample[16150:1159321] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 13:56:03.714 FacebookExample[16150:1159321] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-26 13:56:03.786 FacebookExample[16150:1159321] Resetting plugins due to page load.
+2015-06-26 13:56:04.100 FacebookExample[16150:1159321] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:56:12.350 FacebookExample[16150:1159321] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 13:56:12.356 FacebookExample[16150:1159321] THREAD WARNING: ['InAppBrowser'] took '134.816162' ms. Plugin should use a background thread.
+2015-06-26 13:57:41.594 FacebookExample[16429:1169004] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 13:57:41.608 FacebookExample[16429:1169004] Multi-tasking -> Device: YES, App: YES
+2015-06-26 13:57:41.620 FacebookExample[16429:1169004] Unlimited access to network resources
+2015-06-26 13:57:41.734 FacebookExample[16429:1169004] [CDVTimer][keyboard] 0.060022ms
+2015-06-26 13:57:41.734 FacebookExample[16429:1169004] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-26 13:57:42.055 FacebookExample[16429:1169004] Resetting plugins due to page load.
+2015-06-26 13:57:42.417 FacebookExample[16429:1169004] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 13:57:47.049 FacebookExample[16429:1169004] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 13:57:47.055 FacebookExample[16429:1169004] THREAD WARNING: ['InAppBrowser'] took '142.829834' ms. Plugin should use a background thread.
+2015-06-26 15:44:59.594 FacebookExample[16429:1169004] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 15:44:59.617 FacebookExample[16429:1169004] THREAD WARNING: ['InAppBrowser'] took '86.391113' ms. Plugin should use a background thread.
+2015-06-26 16:01:59.649 FacebookExample[16429:1169004] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:01:59.659 FacebookExample[16429:1169004] THREAD WARNING: ['InAppBrowser'] took '147.768066' ms. Plugin should use a background thread.
+2015-06-26 16:03:25.458 FacebookExample[17383:1361886] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:03:25.459 FacebookExample[17383:1361886] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:03:25.469 FacebookExample[17383:1361886] Unlimited access to network resources
+2015-06-26 16:03:25.633 FacebookExample[17383:1361886] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 16:03:25.633 FacebookExample[17383:1361886] [CDVTimer][TotalPluginStartup] 0.239015ms
+2015-06-26 16:03:26.731 FacebookExample[17383:1361886] Resetting plugins due to page load.
+2015-06-26 16:03:28.685 FacebookExample[17383:1361886] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:04:00.194 FacebookExample[17383:1361886] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:04:00.199 FacebookExample[17383:1361886] THREAD WARNING: ['InAppBrowser'] took '127.769775' ms. Plugin should use a background thread.
+2015-06-26 16:07:20.710 FacebookExample[17674:1382104] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:07:20.711 FacebookExample[17674:1382104] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:07:20.716 FacebookExample[17674:1382104] Unlimited access to network resources
+2015-06-26 16:07:20.820 FacebookExample[17674:1382104] [CDVTimer][keyboard] 0.099003ms
+2015-06-26 16:07:20.821 FacebookExample[17674:1382104] [CDVTimer][TotalPluginStartup] 0.407994ms
+2015-06-26 16:07:20.886 FacebookExample[17674:1382104] Resetting plugins due to page load.
+2015-06-26 16:07:21.262 FacebookExample[17674:1382104] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:07:30.821 FacebookExample[17674:1382104] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:07:30.826 FacebookExample[17674:1382104] THREAD WARNING: ['InAppBrowser'] took '65.918945' ms. Plugin should use a background thread.
+2015-06-26 16:08:55.711 FacebookExample[17963:1391995] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:08:55.735 FacebookExample[17963:1391995] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:08:55.747 FacebookExample[17963:1391995] Unlimited access to network resources
+2015-06-26 16:08:55.912 FacebookExample[17963:1391995] [CDVTimer][keyboard] 0.059962ms
+2015-06-26 16:08:55.912 FacebookExample[17963:1391995] [CDVTimer][TotalPluginStartup] 0.259995ms
+2015-06-26 16:08:56.304 FacebookExample[17963:1391995] Resetting plugins due to page load.
+2015-06-26 16:08:56.739 FacebookExample[17963:1391995] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:09:09.203 FacebookExample[17963:1391995] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:09:09.208 FacebookExample[17963:1391995] THREAD WARNING: ['InAppBrowser'] took '121.843994' ms. Plugin should use a background thread.
+2015-06-26 16:18:45.697 FacebookExample[18302:1442440] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:18:45.711 FacebookExample[18302:1442440] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:18:45.721 FacebookExample[18302:1442440] Unlimited access to network resources
+2015-06-26 16:18:45.844 FacebookExample[18302:1442440] [CDVTimer][keyboard] 0.061989ms
+2015-06-26 16:18:45.844 FacebookExample[18302:1442440] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-26 16:18:46.160 FacebookExample[18302:1442440] Resetting plugins due to page load.
+2015-06-26 16:18:46.533 FacebookExample[18302:1442440] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:20:42.154 FacebookExample[18586:1456770] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:20:42.155 FacebookExample[18586:1456770] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:20:42.170 FacebookExample[18586:1456770] Unlimited access to network resources
+2015-06-26 16:20:42.295 FacebookExample[18586:1456770] [CDVTimer][keyboard] 0.096977ms
+2015-06-26 16:20:42.296 FacebookExample[18586:1456770] [CDVTimer][TotalPluginStartup] 0.410974ms
+2015-06-26 16:20:42.356 FacebookExample[18586:1456770] Resetting plugins due to page load.
+2015-06-26 16:20:42.689 FacebookExample[18586:1456770] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:23:14.399 FacebookExample[18586:1456770] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:23:14.405 FacebookExample[18586:1456770] THREAD WARNING: ['InAppBrowser'] took '95.287109' ms. Plugin should use a background thread.
+2015-06-26 16:33:00.953 FacebookExample[18957:1532958] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:33:00.966 FacebookExample[18957:1532958] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:33:00.981 FacebookExample[18957:1532958] Unlimited access to network resources
+2015-06-26 16:33:01.098 FacebookExample[18957:1532958] [CDVTimer][keyboard] 0.063002ms
+2015-06-26 16:33:01.098 FacebookExample[18957:1532958] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-26 16:33:01.625 FacebookExample[18957:1532958] Resetting plugins due to page load.
+2015-06-26 16:33:02.131 FacebookExample[18957:1532958] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:33:27.772 FacebookExample[18957:1532958] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:33:27.779 FacebookExample[18957:1532958] THREAD WARNING: ['InAppBrowser'] took '135.049072' ms. Plugin should use a background thread.
+2015-06-26 16:36:57.295 FacebookExample[19252:1557085] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:36:57.296 FacebookExample[19252:1557085] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:36:57.349 FacebookExample[19252:1557085] Unlimited access to network resources
+2015-06-26 16:36:57.466 FacebookExample[19252:1557085] [CDVTimer][keyboard] 0.060022ms
+2015-06-26 16:36:57.466 FacebookExample[19252:1557085] [CDVTimer][TotalPluginStartup] 0.239968ms
+2015-06-26 16:36:57.531 FacebookExample[19252:1557085] Resetting plugins due to page load.
+2015-06-26 16:36:57.877 FacebookExample[19252:1557085] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:37:02.120 FacebookExample[19252:1557085] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:37:02.126 FacebookExample[19252:1557085] THREAD WARNING: ['InAppBrowser'] took '65.947021' ms. Plugin should use a background thread.
+2015-06-26 16:37:54.891 FacebookExample[19523:1563017] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:37:54.892 FacebookExample[19523:1563017] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:37:54.907 FacebookExample[19523:1563017] Unlimited access to network resources
+2015-06-26 16:37:55.049 FacebookExample[19523:1563017] [CDVTimer][keyboard] 0.101984ms
+2015-06-26 16:37:55.049 FacebookExample[19523:1563017] [CDVTimer][TotalPluginStartup] 0.407994ms
+2015-06-26 16:37:55.111 FacebookExample[19523:1563017] Resetting plugins due to page load.
+2015-06-26 16:37:55.462 FacebookExample[19523:1563017] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:38:00.030 FacebookExample[19523:1563017] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:38:00.035 FacebookExample[19523:1563017] THREAD WARNING: ['InAppBrowser'] took '70.851074' ms. Plugin should use a background thread.
+2015-06-26 16:39:11.767 FacebookExample[19797:1571476] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:39:11.768 FacebookExample[19797:1571476] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:39:11.780 FacebookExample[19797:1571476] Unlimited access to network resources
+2015-06-26 16:39:11.881 FacebookExample[19797:1571476] [CDVTimer][keyboard] 0.074983ms
+2015-06-26 16:39:11.882 FacebookExample[19797:1571476] [CDVTimer][TotalPluginStartup] 0.265956ms
+2015-06-26 16:39:11.944 FacebookExample[19797:1571476] Resetting plugins due to page load.
+2015-06-26 16:39:12.279 FacebookExample[19797:1571476] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:39:17.832 FacebookExample[19797:1571476] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:39:17.837 FacebookExample[19797:1571476] THREAD WARNING: ['InAppBrowser'] took '66.188232' ms. Plugin should use a background thread.
+2015-06-26 16:48:20.057 FacebookExample[20136:1611709] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:48:20.070 FacebookExample[20136:1611709] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:48:20.078 FacebookExample[20136:1611709] Unlimited access to network resources
+2015-06-26 16:48:20.213 FacebookExample[20136:1611709] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 16:48:20.213 FacebookExample[20136:1611709] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-26 16:48:21.070 FacebookExample[20136:1611709] Resetting plugins due to page load.
+2015-06-26 16:48:21.664 FacebookExample[20136:1611709] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:48:26.204 FacebookExample[20136:1611709] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:48:26.210 FacebookExample[20136:1611709] THREAD WARNING: ['InAppBrowser'] took '164.689209' ms. Plugin should use a background thread.
+2015-06-26 16:56:57.555 FacebookExample[20136:1611709] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:56:57.633 FacebookExample[20136:1611709] THREAD WARNING: ['InAppBrowser'] took '133.713135' ms. Plugin should use a background thread.
+2015-06-26 16:57:08.118 FacebookExample[20477:1655818] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 16:57:08.118 FacebookExample[20477:1655818] Multi-tasking -> Device: YES, App: YES
+2015-06-26 16:57:08.136 FacebookExample[20477:1655818] Unlimited access to network resources
+2015-06-26 16:57:08.296 FacebookExample[20477:1655818] [CDVTimer][keyboard] 0.084996ms
+2015-06-26 16:57:08.296 FacebookExample[20477:1655818] [CDVTimer][TotalPluginStartup] 0.321984ms
+2015-06-26 16:57:09.678 FacebookExample[20477:1655818] Resetting plugins due to page load.
+2015-06-26 16:57:10.348 FacebookExample[20477:1655818] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 16:57:16.110 FacebookExample[20477:1655818] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 16:57:16.115 FacebookExample[20477:1655818] THREAD WARNING: ['InAppBrowser'] took '120.192627' ms. Plugin should use a background thread.
+2015-06-26 17:00:11.396 FacebookExample[20764:1673615] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:00:11.407 FacebookExample[20764:1673615] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:00:11.416 FacebookExample[20764:1673615] Unlimited access to network resources
+2015-06-26 17:00:11.569 FacebookExample[20764:1673615] [CDVTimer][keyboard] 0.102997ms
+2015-06-26 17:00:11.569 FacebookExample[20764:1673615] [CDVTimer][TotalPluginStartup] 0.364006ms
+2015-06-26 17:00:12.608 FacebookExample[20764:1673615] Resetting plugins due to page load.
+2015-06-26 17:00:13.138 FacebookExample[20764:1673615] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:00:21.682 FacebookExample[20764:1673615] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:00:21.687 FacebookExample[20764:1673615] THREAD WARNING: ['InAppBrowser'] took '144.471191' ms. Plugin should use a background thread.
+2015-06-26 17:10:20.826 FacebookExample[20764:1708793] Communications error: <OS_xpc_error: <error: 0x2db55f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2db583c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-06-26 17:13:59.870 FacebookExample[21159:1714227] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:13:59.871 FacebookExample[21159:1714227] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:13:59.896 FacebookExample[21159:1714227] Unlimited access to network resources
+2015-06-26 17:14:00.015 FacebookExample[21159:1714227] [CDVTimer][keyboard] 0.061035ms
+2015-06-26 17:14:00.015 FacebookExample[21159:1714227] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-06-26 17:14:00.998 FacebookExample[21159:1714227] Resetting plugins due to page load.
+2015-06-26 17:14:01.514 FacebookExample[21159:1714227] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:14:06.540 FacebookExample[21159:1714227] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:14:06.545 FacebookExample[21159:1714227] THREAD WARNING: ['InAppBrowser'] took '117.885010' ms. Plugin should use a background thread.
+2015-06-26 17:15:38.781 FacebookExample[21442:1727178] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:15:38.782 FacebookExample[21442:1727178] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:15:38.799 FacebookExample[21442:1727178] Unlimited access to network resources
+2015-06-26 17:15:38.943 FacebookExample[21442:1727178] [CDVTimer][keyboard] 0.069022ms
+2015-06-26 17:15:38.943 FacebookExample[21442:1727178] [CDVTimer][TotalPluginStartup] 0.259042ms
+2015-06-26 17:15:39.026 FacebookExample[21442:1727178] Resetting plugins due to page load.
+2015-06-26 17:15:39.397 FacebookExample[21442:1727178] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:15:59.279 FacebookExample[21442:1727178] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:15:59.284 FacebookExample[21442:1727178] THREAD WARNING: ['InAppBrowser'] took '65.738770' ms. Plugin should use a background thread.
+2015-06-26 17:18:47.392 FacebookExample[21732:1748047] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:18:47.409 FacebookExample[21732:1748047] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:18:47.417 FacebookExample[21732:1748047] Unlimited access to network resources
+2015-06-26 17:18:47.494 FacebookExample[21732:1748047] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 17:18:47.494 FacebookExample[21732:1748047] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-26 17:18:47.611 FacebookExample[21732:1748047] Resetting plugins due to page load.
+2015-06-26 17:18:47.972 FacebookExample[21732:1748047] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:19:17.898 FacebookExample[21732:1748047] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:19:17.904 FacebookExample[21732:1748047] THREAD WARNING: ['InAppBrowser'] took '64.765137' ms. Plugin should use a background thread.
+2015-06-26 17:20:17.256 FacebookExample[22007:1755023] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:20:17.257 FacebookExample[22007:1755023] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:20:17.270 FacebookExample[22007:1755023] Unlimited access to network resources
+2015-06-26 17:20:17.375 FacebookExample[22007:1755023] [CDVTimer][keyboard] 0.063956ms
+2015-06-26 17:20:17.375 FacebookExample[22007:1755023] [CDVTimer][TotalPluginStartup] 0.295997ms
+2015-06-26 17:20:17.440 FacebookExample[22007:1755023] Resetting plugins due to page load.
+2015-06-26 17:20:17.789 FacebookExample[22007:1755023] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:28:57.544 FacebookExample[22007:1755023] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:28:57.579 FacebookExample[22007:1755023] THREAD WARNING: ['InAppBrowser'] took '458.914795' ms. Plugin should use a background thread.
+2015-06-26 17:30:44.344 FacebookExample[22357:1811759] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:30:44.357 FacebookExample[22357:1811759] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:30:44.366 FacebookExample[22357:1811759] Unlimited access to network resources
+2015-06-26 17:30:44.483 FacebookExample[22357:1811759] [CDVTimer][keyboard] 0.063002ms
+2015-06-26 17:30:44.483 FacebookExample[22357:1811759] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-06-26 17:30:44.979 FacebookExample[22357:1811759] Resetting plugins due to page load.
+2015-06-26 17:30:45.533 FacebookExample[22357:1811759] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:30:52.554 FacebookExample[22357:1811759] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:30:52.560 FacebookExample[22357:1811759] THREAD WARNING: ['InAppBrowser'] took '138.207764' ms. Plugin should use a background thread.
+2015-06-26 17:32:20.925 FacebookExample[22636:1822508] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:32:20.940 FacebookExample[22636:1822508] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:32:20.948 FacebookExample[22636:1822508] Unlimited access to network resources
+2015-06-26 17:32:21.055 FacebookExample[22636:1822508] [CDVTimer][keyboard] 0.063956ms
+2015-06-26 17:32:21.055 FacebookExample[22636:1822508] [CDVTimer][TotalPluginStartup] 0.250995ms
+2015-06-26 17:32:21.717 FacebookExample[22636:1822508] Resetting plugins due to page load.
+2015-06-26 17:32:22.149 FacebookExample[22636:1822508] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:32:28.359 FacebookExample[22636:1822508] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:32:28.365 FacebookExample[22636:1822508] THREAD WARNING: ['InAppBrowser'] took '80.237793' ms. Plugin should use a background thread.
+2015-06-26 17:33:24.853 FacebookExample[22907:1826728] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:33:24.865 FacebookExample[22907:1826728] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:33:24.878 FacebookExample[22907:1826728] Unlimited access to network resources
+2015-06-26 17:33:24.987 FacebookExample[22907:1826728] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 17:33:24.987 FacebookExample[22907:1826728] [CDVTimer][TotalPluginStartup] 0.240982ms
+2015-06-26 17:33:25.309 FacebookExample[22907:1826728] Resetting plugins due to page load.
+2015-06-26 17:33:25.753 FacebookExample[22907:1826728] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:33:29.951 FacebookExample[22907:1826728] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:33:29.957 FacebookExample[22907:1826728] THREAD WARNING: ['InAppBrowser'] took '78.114990' ms. Plugin should use a background thread.
+2015-06-26 17:34:27.512 FacebookExample[23182:1833015] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:34:27.532 FacebookExample[23182:1833015] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:34:27.572 FacebookExample[23182:1833015] Unlimited access to network resources
+2015-06-26 17:34:27.714 FacebookExample[23182:1833015] [CDVTimer][keyboard] 0.085056ms
+2015-06-26 17:34:27.714 FacebookExample[23182:1833015] [CDVTimer][TotalPluginStartup] 0.303984ms
+2015-06-26 17:34:28.094 FacebookExample[23182:1833015] Resetting plugins due to page load.
+2015-06-26 17:34:28.548 FacebookExample[23182:1833015] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:34:32.709 FacebookExample[23182:1833015] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:34:32.715 FacebookExample[23182:1833015] THREAD WARNING: ['InAppBrowser'] took '69.651855' ms. Plugin should use a background thread.
+2015-06-26 17:35:30.525 FacebookExample[23457:1838630] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:35:30.539 FacebookExample[23457:1838630] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:35:30.548 FacebookExample[23457:1838630] Unlimited access to network resources
+2015-06-26 17:35:30.659 FacebookExample[23457:1838630] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 17:35:30.659 FacebookExample[23457:1838630] [CDVTimer][TotalPluginStartup] 0.244975ms
+2015-06-26 17:35:30.984 FacebookExample[23457:1838630] Resetting plugins due to page load.
+2015-06-26 17:35:31.348 FacebookExample[23457:1838630] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:35:35.680 FacebookExample[23457:1838630] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:35:35.685 FacebookExample[23457:1838630] THREAD WARNING: ['InAppBrowser'] took '86.921875' ms. Plugin should use a background thread.
+2015-06-26 17:39:49.239 FacebookExample[23762:1864567] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 17:39:49.252 FacebookExample[23762:1864567] Multi-tasking -> Device: YES, App: YES
+2015-06-26 17:39:49.260 FacebookExample[23762:1864567] Unlimited access to network resources
+2015-06-26 17:39:49.373 FacebookExample[23762:1864567] [CDVTimer][keyboard] 0.054002ms
+2015-06-26 17:39:49.373 FacebookExample[23762:1864567] [CDVTimer][TotalPluginStartup] 0.240982ms
+2015-06-26 17:39:49.687 FacebookExample[23762:1864567] Resetting plugins due to page load.
+2015-06-26 17:39:50.062 FacebookExample[23762:1864567] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 17:40:08.816 FacebookExample[23762:1864567] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:40:08.822 FacebookExample[23762:1864567] THREAD WARNING: ['InAppBrowser'] took '114.144043' ms. Plugin should use a background thread.
+2015-06-26 17:49:28.241 FacebookExample[23762:1864567] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 17:49:28.307 FacebookExample[23762:1864567] THREAD WARNING: ['InAppBrowser'] took '120.646973' ms. Plugin should use a background thread.
+2015-06-26 18:00:46.193 FacebookExample[24259:1984602] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:00:46.206 FacebookExample[24259:1984602] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:00:46.217 FacebookExample[24259:1984602] Unlimited access to network resources
+2015-06-26 18:00:46.351 FacebookExample[24259:1984602] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 18:00:46.352 FacebookExample[24259:1984602] [CDVTimer][TotalPluginStartup] 0.239968ms
+2015-06-26 18:00:47.262 FacebookExample[24259:1984602] Resetting plugins due to page load.
+2015-06-26 18:00:47.855 FacebookExample[24259:1984602] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:00:52.140 FacebookExample[24259:1984602] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 18:00:52.146 FacebookExample[24259:1984602] THREAD WARNING: ['InAppBrowser'] took '176.100098' ms. Plugin should use a background thread.
+2015-06-26 18:03:53.281 FacebookExample[24556:2006331] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:03:53.294 FacebookExample[24556:2006331] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:03:53.301 FacebookExample[24556:2006331] Unlimited access to network resources
+2015-06-26 18:03:53.419 FacebookExample[24556:2006331] [CDVTimer][keyboard] 0.056982ms
+2015-06-26 18:03:53.419 FacebookExample[24556:2006331] [CDVTimer][TotalPluginStartup] 0.236988ms
+2015-06-26 18:03:53.842 FacebookExample[24556:2006331] Resetting plugins due to page load.
+2015-06-26 18:03:54.348 FacebookExample[24556:2006331] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:04:00.302 FacebookExample[24556:2006331] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 18:04:00.307 FacebookExample[24556:2006331] THREAD WARNING: ['InAppBrowser'] took '78.268066' ms. Plugin should use a background thread.
+2015-06-26 18:07:17.298 FacebookExample[24849:2029485] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:07:17.299 FacebookExample[24849:2029485] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:07:17.310 FacebookExample[24849:2029485] Unlimited access to network resources
+2015-06-26 18:07:17.447 FacebookExample[24849:2029485] [CDVTimer][keyboard] 0.058949ms
+2015-06-26 18:07:17.447 FacebookExample[24849:2029485] [CDVTimer][TotalPluginStartup] 0.241041ms
+2015-06-26 18:07:18.315 FacebookExample[24849:2029485] Resetting plugins due to page load.
+2015-06-26 18:07:18.906 FacebookExample[24849:2029485] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:07:25.394 FacebookExample[24849:2029485] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 18:07:25.400 FacebookExample[24849:2029485] THREAD WARNING: ['InAppBrowser'] took '147.913086' ms. Plugin should use a background thread.
+2015-06-26 18:08:21.801 FacebookExample[24849:2029485] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 18:08:21.803 FacebookExample[24849:2029485] THREAD WARNING: ['InAppBrowser'] took '55.812012' ms. Plugin should use a background thread.
+2015-06-26 18:11:15.268 FacebookExample[25150:2052232] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:11:15.269 FacebookExample[25150:2052232] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:11:15.291 FacebookExample[25150:2052232] Unlimited access to network resources
+2015-06-26 18:11:15.393 FacebookExample[25150:2052232] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 18:11:15.393 FacebookExample[25150:2052232] [CDVTimer][TotalPluginStartup] 0.245035ms
+2015-06-26 18:11:15.751 FacebookExample[25150:2052232] Resetting plugins due to page load.
+2015-06-26 18:11:16.138 FacebookExample[25150:2052232] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:11:21.369 FacebookExample[25150:2052232] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 18:11:21.375 FacebookExample[25150:2052232] THREAD WARNING: ['InAppBrowser'] took '84.437988' ms. Plugin should use a background thread.
+2015-06-26 18:12:32.030 FacebookExample[25296:2060288] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:12:32.043 FacebookExample[25296:2060288] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:12:32.054 FacebookExample[25296:2060288] Unlimited access to network resources
+2015-06-26 18:12:32.165 FacebookExample[25296:2060288] [CDVTimer][keyboard] 0.098050ms
+2015-06-26 18:12:32.165 FacebookExample[25296:2060288] [CDVTimer][TotalPluginStartup] 0.411034ms
+2015-06-26 18:12:32.545 FacebookExample[25296:2060288] Resetting plugins due to page load.
+2015-06-26 18:12:32.991 FacebookExample[25296:2060288] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:12:46.911 FacebookExample[25296:2060288] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 18:12:46.916 FacebookExample[25296:2060288] THREAD WARNING: ['InAppBrowser'] took '124.809082' ms. Plugin should use a background thread.
+2015-06-26 18:15:16.571 FacebookExample[25586:2076401] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:15:16.573 FacebookExample[25586:2076401] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:15:16.587 FacebookExample[25586:2076401] Unlimited access to network resources
+2015-06-26 18:15:16.718 FacebookExample[25586:2076401] [CDVTimer][keyboard] 0.056982ms
+2015-06-26 18:15:16.718 FacebookExample[25586:2076401] [CDVTimer][TotalPluginStartup] 0.256002ms
+2015-06-26 18:15:17.044 FacebookExample[25586:2076401] Resetting plugins due to page load.
+2015-06-26 18:15:17.427 FacebookExample[25586:2076401] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:16:26.131 FacebookExample[25860:2085153] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:16:26.132 FacebookExample[25860:2085153] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:16:26.146 FacebookExample[25860:2085153] Unlimited access to network resources
+2015-06-26 18:16:26.255 FacebookExample[25860:2085153] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 18:16:26.255 FacebookExample[25860:2085153] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-06-26 18:16:26.572 FacebookExample[25860:2085153] Resetting plugins due to page load.
+2015-06-26 18:16:26.942 FacebookExample[25860:2085153] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:17:28.402 FacebookExample[26134:2089628] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:17:28.416 FacebookExample[26134:2089628] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:17:28.458 FacebookExample[26134:2089628] Unlimited access to network resources
+2015-06-26 18:17:28.579 FacebookExample[26134:2089628] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 18:17:28.579 FacebookExample[26134:2089628] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-06-26 18:17:28.906 FacebookExample[26134:2089628] Resetting plugins due to page load.
+2015-06-26 18:17:29.268 FacebookExample[26134:2089628] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:18:17.970 FacebookExample[26406:2094368] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:18:17.970 FacebookExample[26406:2094368] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:18:17.986 FacebookExample[26406:2094368] Unlimited access to network resources
+2015-06-26 18:18:18.126 FacebookExample[26406:2094368] [CDVTimer][keyboard] 0.081003ms
+2015-06-26 18:18:18.126 FacebookExample[26406:2094368] [CDVTimer][TotalPluginStartup] 0.261009ms
+2015-06-26 18:18:18.994 FacebookExample[26406:2094368] Resetting plugins due to page load.
+2015-06-26 18:18:19.477 FacebookExample[26406:2094368] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:18:22.375 FacebookExample[26406:2094368] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-26 18:18:22.381 FacebookExample[26406:2094368] THREAD WARNING: ['InAppBrowser'] took '129.566162' ms. Plugin should use a background thread.
+2015-06-26 18:18:54.781 FacebookExample[26548:2098121] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:18:54.798 FacebookExample[26548:2098121] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:18:54.812 FacebookExample[26548:2098121] Unlimited access to network resources
+2015-06-26 18:18:54.917 FacebookExample[26548:2098121] [CDVTimer][keyboard] 0.057042ms
+2015-06-26 18:18:54.918 FacebookExample[26548:2098121] [CDVTimer][TotalPluginStartup] 0.244975ms
+2015-06-26 18:18:55.232 FacebookExample[26548:2098121] Resetting plugins due to page load.
+2015-06-26 18:18:55.595 FacebookExample[26548:2098121] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:19:55.865 FacebookExample[26697:2106627] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:19:55.866 FacebookExample[26697:2106627] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:19:55.876 FacebookExample[26697:2106627] Unlimited access to network resources
+2015-06-26 18:19:55.978 FacebookExample[26697:2106627] [CDVTimer][keyboard] 0.060022ms
+2015-06-26 18:19:55.978 FacebookExample[26697:2106627] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-26 18:19:56.042 FacebookExample[26697:2106627] Resetting plugins due to page load.
+2015-06-26 18:19:56.409 FacebookExample[26697:2106627] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:21:03.969 FacebookExample[26970:2111864] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:21:03.982 FacebookExample[26970:2111864] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:21:04.007 FacebookExample[26970:2111864] Unlimited access to network resources
+2015-06-26 18:21:04.125 FacebookExample[26970:2111864] [CDVTimer][keyboard] 0.058949ms
+2015-06-26 18:21:04.125 FacebookExample[26970:2111864] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-06-26 18:21:04.473 FacebookExample[26970:2111864] Resetting plugins due to page load.
+2015-06-26 18:21:04.846 FacebookExample[26970:2111864] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:21:27.189 FacebookExample[26970:2111932] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-26 18:22:11.676 FacebookExample[27246:2117703] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:22:11.677 FacebookExample[27246:2117703] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:22:11.685 FacebookExample[27246:2117703] Unlimited access to network resources
+2015-06-26 18:22:11.764 FacebookExample[27246:2117703] [CDVTimer][keyboard] 0.060976ms
+2015-06-26 18:22:11.764 FacebookExample[27246:2117703] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-26 18:22:11.828 FacebookExample[27246:2117703] Resetting plugins due to page load.
+2015-06-26 18:22:12.187 FacebookExample[27246:2117703] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:23:35.419 FacebookExample[27527:2122489] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:23:35.421 FacebookExample[27527:2122489] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:23:35.439 FacebookExample[27527:2122489] Unlimited access to network resources
+2015-06-26 18:23:35.580 FacebookExample[27527:2122489] [CDVTimer][keyboard] 0.056982ms
+2015-06-26 18:23:35.580 FacebookExample[27527:2122489] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-06-26 18:23:36.433 FacebookExample[27527:2122489] Resetting plugins due to page load.
+2015-06-26 18:23:37.057 FacebookExample[27527:2122489] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:26:43.172 FacebookExample[27826:2144150] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:26:43.173 FacebookExample[27826:2144150] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:26:43.186 FacebookExample[27826:2144150] Unlimited access to network resources
+2015-06-26 18:26:43.344 FacebookExample[27826:2144150] [CDVTimer][keyboard] 0.060022ms
+2015-06-26 18:26:43.344 FacebookExample[27826:2144150] [CDVTimer][TotalPluginStartup] 0.272989ms
+2015-06-26 18:26:44.133 FacebookExample[27826:2144150] Resetting plugins due to page load.
+2015-06-26 18:26:44.696 FacebookExample[27826:2144150] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:27:54.993 FacebookExample[27826:2144237] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-26 18:28:55.403 FacebookExample[28113:2156867] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:28:55.418 FacebookExample[28113:2156867] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:28:55.430 FacebookExample[28113:2156867] Unlimited access to network resources
+2015-06-26 18:28:55.580 FacebookExample[28113:2156867] [CDVTimer][keyboard] 0.073016ms
+2015-06-26 18:28:55.580 FacebookExample[28113:2156867] [CDVTimer][TotalPluginStartup] 0.265002ms
+2015-06-26 18:28:55.838 FacebookExample[28113:2156867] Resetting plugins due to page load.
+2015-06-26 18:28:56.221 FacebookExample[28113:2156867] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:35:51.825 FacebookExample[28436:2178585] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:35:51.840 FacebookExample[28436:2178585] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:35:51.857 FacebookExample[28436:2178585] Unlimited access to network resources
+2015-06-26 18:35:51.981 FacebookExample[28436:2178585] [CDVTimer][keyboard] 0.059962ms
+2015-06-26 18:35:51.981 FacebookExample[28436:2178585] [CDVTimer][TotalPluginStartup] 0.242949ms
+2015-06-26 18:35:52.752 FacebookExample[28436:2178585] Resetting plugins due to page load.
+2015-06-26 18:35:53.421 FacebookExample[28436:2178585] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:37:27.625 FacebookExample[28716:2186724] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:37:27.745 FacebookExample[28716:2186724] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:37:27.758 FacebookExample[28716:2186724] Unlimited access to network resources
+2015-06-26 18:37:28.275 FacebookExample[28716:2186724] [CDVTimer][keyboard] 0.060976ms
+2015-06-26 18:37:28.275 FacebookExample[28716:2186724] [CDVTimer][TotalPluginStartup] 0.243962ms
+2015-06-26 18:37:28.673 FacebookExample[28716:2186724] Resetting plugins due to page load.
+2015-06-26 18:37:29.241 FacebookExample[28716:2186724] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:42:19.322 FacebookExample[29015:2219847] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:42:19.323 FacebookExample[29015:2219847] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:42:19.337 FacebookExample[29015:2219847] Unlimited access to network resources
+2015-06-26 18:42:19.446 FacebookExample[29015:2219847] [CDVTimer][keyboard] 0.060022ms
+2015-06-26 18:42:19.446 FacebookExample[29015:2219847] [CDVTimer][TotalPluginStartup] 0.238001ms
+2015-06-26 18:42:19.891 FacebookExample[29015:2219847] Resetting plugins due to page load.
+2015-06-26 18:42:20.296 FacebookExample[29015:2219847] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:44:48.477 FacebookExample[29302:2226582] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:44:48.478 FacebookExample[29302:2226582] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:44:48.490 FacebookExample[29302:2226582] Unlimited access to network resources
+2015-06-26 18:44:48.617 FacebookExample[29302:2226582] [CDVTimer][keyboard] 0.073016ms
+2015-06-26 18:44:48.617 FacebookExample[29302:2226582] [CDVTimer][TotalPluginStartup] 0.274956ms
+2015-06-26 18:44:49.000 FacebookExample[29302:2226582] Resetting plugins due to page load.
+2015-06-26 18:44:49.463 FacebookExample[29302:2226582] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:48:17.963 FacebookExample[29594:2248214] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:48:17.979 FacebookExample[29594:2248214] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:48:17.991 FacebookExample[29594:2248214] Unlimited access to network resources
+2015-06-26 18:48:18.120 FacebookExample[29594:2248214] [CDVTimer][keyboard] 0.083029ms
+2015-06-26 18:48:18.120 FacebookExample[29594:2248214] [CDVTimer][TotalPluginStartup] 0.312984ms
+2015-06-26 18:48:18.977 FacebookExample[29594:2248214] Resetting plugins due to page load.
+2015-06-26 18:48:19.925 FacebookExample[29594:2248214] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:50:21.592 FacebookExample[29878:2257603] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:50:21.607 FacebookExample[29878:2257603] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:50:21.616 FacebookExample[29878:2257603] Unlimited access to network resources
+2015-06-26 18:50:21.748 FacebookExample[29878:2257603] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 18:50:21.748 FacebookExample[29878:2257603] [CDVTimer][TotalPluginStartup] 0.241041ms
+2015-06-26 18:50:22.295 FacebookExample[29878:2257603] Resetting plugins due to page load.
+2015-06-26 18:50:22.803 FacebookExample[29878:2257603] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:56:46.624 FacebookExample[30187:2277768] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:56:46.638 FacebookExample[30187:2277768] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:56:46.649 FacebookExample[30187:2277768] Unlimited access to network resources
+2015-06-26 18:56:46.791 FacebookExample[30187:2277768] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 18:56:46.791 FacebookExample[30187:2277768] [CDVTimer][TotalPluginStartup] 0.248015ms
+2015-06-26 18:56:47.836 FacebookExample[30187:2277768] Resetting plugins due to page load.
+2015-06-26 18:56:48.430 FacebookExample[30187:2277768] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:58:43.473 FacebookExample[30471:2285511] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:58:43.474 FacebookExample[30471:2285511] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:58:43.488 FacebookExample[30471:2285511] Unlimited access to network resources
+2015-06-26 18:58:43.597 FacebookExample[30471:2285511] [CDVTimer][keyboard] 0.088990ms
+2015-06-26 18:58:43.597 FacebookExample[30471:2285511] [CDVTimer][TotalPluginStartup] 0.275016ms
+2015-06-26 18:58:44.011 FacebookExample[30471:2285511] Resetting plugins due to page load.
+2015-06-26 18:58:44.484 FacebookExample[30471:2285511] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 18:59:54.010 FacebookExample[30745:2291839] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 18:59:54.011 FacebookExample[30745:2291839] Multi-tasking -> Device: YES, App: YES
+2015-06-26 18:59:54.030 FacebookExample[30745:2291839] Unlimited access to network resources
+2015-06-26 18:59:54.156 FacebookExample[30745:2291839] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 18:59:54.156 FacebookExample[30745:2291839] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-06-26 18:59:54.925 FacebookExample[30745:2291839] Resetting plugins due to page load.
+2015-06-26 18:59:55.344 FacebookExample[30745:2291839] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:01:04.236 FacebookExample[31023:2298984] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:01:04.252 FacebookExample[31023:2298984] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:01:04.260 FacebookExample[31023:2298984] Unlimited access to network resources
+2015-06-26 19:01:04.392 FacebookExample[31023:2298984] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 19:01:04.393 FacebookExample[31023:2298984] [CDVTimer][TotalPluginStartup] 0.265002ms
+2015-06-26 19:01:05.173 FacebookExample[31023:2298984] Resetting plugins due to page load.
+2015-06-26 19:01:05.714 FacebookExample[31023:2298984] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:06:42.068 FacebookExample[31337:2324090] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:06:42.069 FacebookExample[31337:2324090] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:06:42.083 FacebookExample[31337:2324090] Unlimited access to network resources
+2015-06-26 19:06:42.221 FacebookExample[31337:2324090] [CDVTimer][keyboard] 0.070035ms
+2015-06-26 19:06:42.221 FacebookExample[31337:2324090] [CDVTimer][TotalPluginStartup] 0.268042ms
+2015-06-26 19:06:43.245 FacebookExample[31337:2324090] Resetting plugins due to page load.
+2015-06-26 19:06:43.794 FacebookExample[31337:2324090] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:08:54.750 FacebookExample[31621:2335132] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:08:54.766 FacebookExample[31621:2335132] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:08:54.783 FacebookExample[31621:2335132] Unlimited access to network resources
+2015-06-26 19:08:54.929 FacebookExample[31621:2335132] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 19:08:54.929 FacebookExample[31621:2335132] [CDVTimer][TotalPluginStartup] 0.238955ms
+2015-06-26 19:08:55.664 FacebookExample[31621:2335132] Resetting plugins due to page load.
+2015-06-26 19:08:56.172 FacebookExample[31621:2335132] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:15:34.159 FacebookExample[31944:2371615] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:15:34.160 FacebookExample[31944:2371615] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:15:34.174 FacebookExample[31944:2371615] Unlimited access to network resources
+2015-06-26 19:15:34.339 FacebookExample[31944:2371615] [CDVTimer][keyboard] 0.066996ms
+2015-06-26 19:15:34.339 FacebookExample[31944:2371615] [CDVTimer][TotalPluginStartup] 0.279009ms
+2015-06-26 19:15:35.195 FacebookExample[31944:2371615] Resetting plugins due to page load.
+2015-06-26 19:15:35.788 FacebookExample[31944:2371615] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:16:43.080 FacebookExample[32218:2379334] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:16:43.081 FacebookExample[32218:2379334] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:16:43.094 FacebookExample[32218:2379334] Unlimited access to network resources
+2015-06-26 19:16:43.247 FacebookExample[32218:2379334] [CDVTimer][keyboard] 0.105023ms
+2015-06-26 19:16:43.247 FacebookExample[32218:2379334] [CDVTimer][TotalPluginStartup] 0.413954ms
+2015-06-26 19:16:43.323 FacebookExample[32218:2379334] Resetting plugins due to page load.
+2015-06-26 19:16:43.656 FacebookExample[32218:2379334] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:20:54.308 FacebookExample[32523:2403789] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:20:54.314 FacebookExample[32523:2403789] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:20:54.335 FacebookExample[32523:2403789] Unlimited access to network resources
+2015-06-26 19:20:54.478 FacebookExample[32523:2403789] [CDVTimer][keyboard] 0.060976ms
+2015-06-26 19:20:54.479 FacebookExample[32523:2403789] [CDVTimer][TotalPluginStartup] 0.248015ms
+2015-06-26 19:20:55.456 FacebookExample[32523:2403789] Resetting plugins due to page load.
+2015-06-26 19:20:56.038 FacebookExample[32523:2403789] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:21:33.023 FacebookExample[32794:2406959] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:21:33.023 FacebookExample[32794:2406959] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:21:33.046 FacebookExample[32794:2406959] Unlimited access to network resources
+2015-06-26 19:21:33.156 FacebookExample[32794:2406959] [CDVTimer][keyboard] 0.055015ms
+2015-06-26 19:21:33.156 FacebookExample[32794:2406959] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-26 19:21:33.548 FacebookExample[32794:2406959] Resetting plugins due to page load.
+2015-06-26 19:21:34.011 FacebookExample[32794:2406959] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:25:05.533 FacebookExample[33088:2428366] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:25:05.549 FacebookExample[33088:2428366] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:25:05.551 FacebookExample[33088:2428366] Unlimited access to network resources
+2015-06-26 19:25:05.690 FacebookExample[33088:2428366] [CDVTimer][keyboard] 0.055015ms
+2015-06-26 19:25:05.690 FacebookExample[33088:2428366] [CDVTimer][TotalPluginStartup] 0.243962ms
+2015-06-26 19:25:06.470 FacebookExample[33088:2428366] Resetting plugins due to page load.
+2015-06-26 19:25:09.811 FacebookExample[33088:2428366] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:34:33.841 FacebookExample[33431:2490981] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:34:33.842 FacebookExample[33431:2490981] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:34:33.850 FacebookExample[33431:2490981] Unlimited access to network resources
+2015-06-26 19:34:33.977 FacebookExample[33431:2490981] [CDVTimer][keyboard] 0.054955ms
+2015-06-26 19:34:33.977 FacebookExample[33431:2490981] [CDVTimer][TotalPluginStartup] 0.241041ms
+2015-06-26 19:34:34.789 FacebookExample[33431:2490981] Resetting plugins due to page load.
+2015-06-26 19:34:35.330 FacebookExample[33431:2490981] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:35:31.811 FacebookExample[33704:2495220] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:35:31.826 FacebookExample[33704:2495220] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:35:31.837 FacebookExample[33704:2495220] Unlimited access to network resources
+2015-06-26 19:35:32.001 FacebookExample[33704:2495220] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 19:35:32.001 FacebookExample[33704:2495220] [CDVTimer][TotalPluginStartup] 0.238001ms
+2015-06-26 19:35:32.425 FacebookExample[33704:2495220] Resetting plugins due to page load.
+2015-06-26 19:35:32.866 FacebookExample[33704:2495220] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:36:45.321 FacebookExample[33983:2501603] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:36:45.330 FacebookExample[33983:2501603] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:36:45.342 FacebookExample[33983:2501603] Unlimited access to network resources
+2015-06-26 19:36:45.474 FacebookExample[33983:2501603] [CDVTimer][keyboard] 0.064969ms
+2015-06-26 19:36:45.474 FacebookExample[33983:2501603] [CDVTimer][TotalPluginStartup] 0.270009ms
+2015-06-26 19:36:46.285 FacebookExample[33983:2501603] Resetting plugins due to page load.
+2015-06-26 19:36:46.692 FacebookExample[33983:2501603] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:37:40.317 FacebookExample[34258:2506360] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:37:40.318 FacebookExample[34258:2506360] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:37:40.333 FacebookExample[34258:2506360] Unlimited access to network resources
+2015-06-26 19:37:40.475 FacebookExample[34258:2506360] [CDVTimer][keyboard] 0.060976ms
+2015-06-26 19:37:40.475 FacebookExample[34258:2506360] [CDVTimer][TotalPluginStartup] 0.241041ms
+2015-06-26 19:37:40.874 FacebookExample[34258:2506360] Resetting plugins due to page load.
+2015-06-26 19:37:41.264 FacebookExample[34258:2506360] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:40:39.705 FacebookExample[34554:2525713] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:40:39.706 FacebookExample[34554:2525713] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:40:39.714 FacebookExample[34554:2525713] Unlimited access to network resources
+2015-06-26 19:40:39.827 FacebookExample[34554:2525713] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 19:40:39.828 FacebookExample[34554:2525713] [CDVTimer][TotalPluginStartup] 0.247002ms
+2015-06-26 19:40:40.751 FacebookExample[34554:2525713] Resetting plugins due to page load.
+2015-06-26 19:40:41.333 FacebookExample[34554:2525713] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:41:53.278 FacebookExample[34957:2533656] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:41:53.294 FacebookExample[34957:2533656] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:41:53.324 FacebookExample[34957:2533656] Unlimited access to network resources
+2015-06-26 19:41:53.470 FacebookExample[34957:2533656] [CDVTimer][keyboard] 0.063002ms
+2015-06-26 19:41:53.470 FacebookExample[34957:2533656] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-06-26 19:41:54.345 FacebookExample[34957:2533656] Resetting plugins due to page load.
+2015-06-26 19:41:54.919 FacebookExample[34957:2533656] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:43:35.081 FacebookExample[35239:2542066] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:43:35.099 FacebookExample[35239:2542066] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:43:35.112 FacebookExample[35239:2542066] Unlimited access to network resources
+2015-06-26 19:43:35.294 FacebookExample[35239:2542066] [CDVTimer][keyboard] 0.063002ms
+2015-06-26 19:43:35.294 FacebookExample[35239:2542066] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-26 19:43:36.162 FacebookExample[35239:2542066] Resetting plugins due to page load.
+2015-06-26 19:43:37.069 FacebookExample[35239:2542066] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:46:05.524 FacebookExample[35526:2558324] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:46:05.541 FacebookExample[35526:2558324] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:46:05.542 FacebookExample[35526:2558324] Unlimited access to network resources
+2015-06-26 19:46:05.689 FacebookExample[35526:2558324] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 19:46:05.689 FacebookExample[35526:2558324] [CDVTimer][TotalPluginStartup] 0.240982ms
+2015-06-26 19:46:06.580 FacebookExample[35526:2558324] Resetting plugins due to page load.
+2015-06-26 19:46:07.184 FacebookExample[35526:2558324] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:48:08.417 FacebookExample[35815:2575745] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:48:08.425 FacebookExample[35815:2575745] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:48:08.431 FacebookExample[35815:2575745] Unlimited access to network resources
+2015-06-26 19:48:08.562 FacebookExample[35815:2575745] [CDVTimer][keyboard] 0.083983ms
+2015-06-26 19:48:08.562 FacebookExample[35815:2575745] [CDVTimer][TotalPluginStartup] 0.278056ms
+2015-06-26 19:48:09.376 FacebookExample[35815:2575745] Resetting plugins due to page load.
+2015-06-26 19:48:09.996 FacebookExample[35815:2575745] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:49:28.821 FacebookExample[36092:2583218] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:49:28.851 FacebookExample[36092:2583218] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:49:28.882 FacebookExample[36092:2583218] Unlimited access to network resources
+2015-06-26 19:49:29.040 FacebookExample[36092:2583218] [CDVTimer][keyboard] 0.063002ms
+2015-06-26 19:49:29.040 FacebookExample[36092:2583218] [CDVTimer][TotalPluginStartup] 0.272036ms
+2015-06-26 19:49:29.836 FacebookExample[36092:2583218] Resetting plugins due to page load.
+2015-06-26 19:49:30.366 FacebookExample[36092:2583218] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:50:24.069 FacebookExample[36366:2588524] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:50:24.069 FacebookExample[36366:2588524] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:50:24.095 FacebookExample[36366:2588524] Unlimited access to network resources
+2015-06-26 19:50:24.247 FacebookExample[36366:2588524] [CDVTimer][keyboard] 0.060976ms
+2015-06-26 19:50:24.247 FacebookExample[36366:2588524] [CDVTimer][TotalPluginStartup] 0.255048ms
+2015-06-26 19:50:24.833 FacebookExample[36366:2588524] Resetting plugins due to page load.
+2015-06-26 19:50:25.280 FacebookExample[36366:2588524] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:51:38.236 FacebookExample[36643:2598329] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:51:38.237 FacebookExample[36643:2598329] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:51:38.250 FacebookExample[36643:2598329] Unlimited access to network resources
+2015-06-26 19:51:38.377 FacebookExample[36643:2598329] [CDVTimer][keyboard] 0.062048ms
+2015-06-26 19:51:38.377 FacebookExample[36643:2598329] [CDVTimer][TotalPluginStartup] 0.249028ms
+2015-06-26 19:51:39.308 FacebookExample[36643:2598329] Resetting plugins due to page load.
+2015-06-26 19:51:39.935 FacebookExample[36643:2598329] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:53:46.308 FacebookExample[36928:2613325] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:53:46.342 FacebookExample[36928:2613325] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:53:46.356 FacebookExample[36928:2613325] Unlimited access to network resources
+2015-06-26 19:53:46.514 FacebookExample[36928:2613325] [CDVTimer][keyboard] 0.056028ms
+2015-06-26 19:53:46.514 FacebookExample[36928:2613325] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-26 19:53:47.382 FacebookExample[36928:2613325] Resetting plugins due to page load.
+2015-06-26 19:53:47.901 FacebookExample[36928:2613325] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:56:52.022 FacebookExample[37217:2630890] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:56:52.030 FacebookExample[37217:2630890] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:56:52.037 FacebookExample[37217:2630890] Unlimited access to network resources
+2015-06-26 19:56:52.156 FacebookExample[37217:2630890] [CDVTimer][keyboard] 0.059009ms
+2015-06-26 19:56:52.156 FacebookExample[37217:2630890] [CDVTimer][TotalPluginStartup] 0.239968ms
+2015-06-26 19:56:52.547 FacebookExample[37217:2630890] Resetting plugins due to page load.
+2015-06-26 19:56:52.941 FacebookExample[37217:2630890] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 19:58:41.395 FacebookExample[37499:2643187] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 19:58:41.402 FacebookExample[37499:2643187] Multi-tasking -> Device: YES, App: YES
+2015-06-26 19:58:41.416 FacebookExample[37499:2643187] Unlimited access to network resources
+2015-06-26 19:58:41.541 FacebookExample[37499:2643187] [CDVTimer][keyboard] 0.061989ms
+2015-06-26 19:58:41.543 FacebookExample[37499:2643187] [CDVTimer][TotalPluginStartup] 1.953006ms
+2015-06-26 19:58:41.858 FacebookExample[37499:2643187] Resetting plugins due to page load.
+2015-06-26 19:58:42.253 FacebookExample[37499:2643187] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-26 20:00:04.788 FacebookExample[37774:2651184] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 20:00:04.789 FacebookExample[37774:2651184] Multi-tasking -> Device: YES, App: YES
+2015-06-26 20:00:04.804 FacebookExample[37774:2651184] Unlimited access to network resources
+2015-06-26 20:00:04.923 FacebookExample[37774:2651184] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 20:00:04.923 FacebookExample[37774:2651184] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-26 20:00:05.215 FacebookExample[37774:2651184] Resetting plugins due to page load.
+2015-06-26 20:00:05.588 FacebookExample[37774:2651184] Finished load of: http://192.168.1.214:8100/#/login
+2015-06-26 20:01:22.038 FacebookExample[38049:2656829] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 20:01:22.039 FacebookExample[38049:2656829] Multi-tasking -> Device: YES, App: YES
+2015-06-26 20:01:22.051 FacebookExample[38049:2656829] Unlimited access to network resources
+2015-06-26 20:01:22.193 FacebookExample[38049:2656829] [CDVTimer][keyboard] 0.073016ms
+2015-06-26 20:01:22.193 FacebookExample[38049:2656829] [CDVTimer][TotalPluginStartup] 0.261009ms
+2015-06-26 20:01:22.973 FacebookExample[38049:2656829] Resetting plugins due to page load.
+2015-06-26 20:02:32.733 FacebookExample[38322:2661956] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 20:02:32.734 FacebookExample[38322:2661956] Multi-tasking -> Device: YES, App: YES
+2015-06-26 20:02:32.756 FacebookExample[38322:2661956] Unlimited access to network resources
+2015-06-26 20:02:32.911 FacebookExample[38322:2661956] [CDVTimer][keyboard] 0.060976ms
+2015-06-26 20:02:32.911 FacebookExample[38322:2661956] [CDVTimer][TotalPluginStartup] 0.249028ms
+2015-06-26 20:02:33.810 FacebookExample[38322:2661956] Resetting plugins due to page load.
+2015-06-26 20:02:51.904 FacebookExample[38322:2662102] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-26 20:02:51.963 FacebookExample[38322:2661956] Finished load of: http://192.168.1.214:8100/#/login
+2015-06-26 20:06:05.416 FacebookExample[38618:2677625] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 20:06:05.434 FacebookExample[38618:2677625] Multi-tasking -> Device: YES, App: YES
+2015-06-26 20:06:05.441 FacebookExample[38618:2677625] Unlimited access to network resources
+2015-06-26 20:06:05.553 FacebookExample[38618:2677625] [CDVTimer][keyboard] 0.061035ms
+2015-06-26 20:06:05.553 FacebookExample[38618:2677625] [CDVTimer][TotalPluginStartup] 0.267982ms
+2015-06-26 20:06:05.854 FacebookExample[38618:2677625] Resetting plugins due to page load.
+2015-06-26 20:06:09.696 FacebookExample[38618:2677625] Finished load of: http://192.168.1.214:8100/#/login
+2015-06-26 20:07:46.779 FacebookExample[38903:2688480] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 20:07:46.795 FacebookExample[38903:2688480] Multi-tasking -> Device: YES, App: YES
+2015-06-26 20:07:46.812 FacebookExample[38903:2688480] Unlimited access to network resources
+2015-06-26 20:07:46.947 FacebookExample[38903:2688480] [CDVTimer][keyboard] 0.054002ms
+2015-06-26 20:07:46.947 FacebookExample[38903:2688480] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-06-26 20:07:47.737 FacebookExample[38903:2688480] Resetting plugins due to page load.
+2015-06-26 20:07:48.447 FacebookExample[38903:2688480] Finished load of: http://192.168.1.214:8100/#/login
+2015-06-26 20:08:34.837 FacebookExample[39175:2692638] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-26 20:08:34.842 FacebookExample[39175:2692638] Multi-tasking -> Device: YES, App: YES
+2015-06-26 20:08:34.853 FacebookExample[39175:2692638] Unlimited access to network resources
+2015-06-26 20:08:34.974 FacebookExample[39175:2692638] [CDVTimer][keyboard] 0.057995ms
+2015-06-26 20:08:34.975 FacebookExample[39175:2692638] [CDVTimer][TotalPluginStartup] 0.247002ms
+2015-06-26 20:08:35.295 FacebookExample[39175:2692638] Resetting plugins due to page load.
+2015-06-26 20:08:35.693 FacebookExample[39175:2692638] Finished load of: http://192.168.1.214:8100/#/login
+2015-06-28 14:25:30.046 FacebookExample[2090:271249] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 14:25:30.081 FacebookExample[2090:271249] Multi-tasking -> Device: YES, App: YES
+2015-06-28 14:25:30.117 FacebookExample[2090:271249] Unlimited access to network resources
+2015-06-28 14:25:31.954 FacebookExample[2090:271249] [CDVTimer][keyboard] 0.060976ms
+2015-06-28 14:25:31.954 FacebookExample[2090:271249] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-06-28 14:25:32.916 FacebookExample[2090:271249] Resetting plugins due to page load.
+2015-06-28 14:25:34.299 FacebookExample[2090:271249] Finished load of: http://192.168.1.214:8100/#/login
+2015-06-28 14:25:34.440 FacebookExample[2090:271249] THREAD WARNING: ['Keyboard'] took '15.046143' ms. Plugin should use a background thread.
+2015-06-28 14:25:54.241 FacebookExample[2090:271249] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-28 14:25:54.393 FacebookExample[2090:271249] THREAD WARNING: ['InAppBrowser'] took '1305.624023' ms. Plugin should use a background thread.
+2015-06-28 14:26:14.396 FacebookExample[2090:271249] THREAD WARNING: ['Keyboard'] took '42.448975' ms. Plugin should use a background thread.
+2015-06-28 14:29:16.033 FacebookExample[2262:297701] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 14:29:16.049 FacebookExample[2262:297701] Multi-tasking -> Device: YES, App: YES
+2015-06-28 14:29:16.056 FacebookExample[2262:297701] Unlimited access to network resources
+2015-06-28 14:29:16.183 FacebookExample[2262:297701] [CDVTimer][keyboard] 0.054955ms
+2015-06-28 14:29:16.183 FacebookExample[2262:297701] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-06-28 14:29:18.505 FacebookExample[2262:297701] Resetting plugins due to page load.
+2015-06-28 14:29:19.283 FacebookExample[2262:297701] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-28 14:30:28.105 FacebookExample[2534:303481] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 14:30:28.106 FacebookExample[2534:303481] Multi-tasking -> Device: YES, App: YES
+2015-06-28 14:30:28.122 FacebookExample[2534:303481] Unlimited access to network resources
+2015-06-28 14:30:28.233 FacebookExample[2534:303481] [CDVTimer][keyboard] 0.061035ms
+2015-06-28 14:30:28.233 FacebookExample[2534:303481] [CDVTimer][TotalPluginStartup] 0.239968ms
+2015-06-28 14:30:28.599 FacebookExample[2534:303481] Resetting plugins due to page load.
+2015-06-28 14:30:29.077 FacebookExample[2534:303481] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-28 14:30:57.173 FacebookExample[2534:303481] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-28 14:30:57.179 FacebookExample[2534:303481] THREAD WARNING: ['InAppBrowser'] took '122.791016' ms. Plugin should use a background thread.
+2015-06-28 16:26:44.701 FacebookExample[3154:627059] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 16:26:44.702 FacebookExample[3154:627059] Multi-tasking -> Device: YES, App: YES
+2015-06-28 16:26:44.717 FacebookExample[3154:627059] Unlimited access to network resources
+2015-06-28 16:26:44.850 FacebookExample[3154:627059] [CDVTimer][keyboard] 0.059009ms
+2015-06-28 16:26:44.851 FacebookExample[3154:627059] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-06-28 16:26:46.058 FacebookExample[3154:627059] Resetting plugins due to page load.
+2015-06-28 16:26:46.733 FacebookExample[3154:627059] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-28 16:31:56.185 FacebookExample[3474:662659] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 16:31:56.186 FacebookExample[3474:662659] Multi-tasking -> Device: YES, App: YES
+2015-06-28 16:31:56.196 FacebookExample[3474:662659] Unlimited access to network resources
+2015-06-28 16:31:56.348 FacebookExample[3474:662659] [CDVTimer][keyboard] 0.058949ms
+2015-06-28 16:31:56.348 FacebookExample[3474:662659] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-28 16:31:57.350 FacebookExample[3474:662659] Resetting plugins due to page load.
+2015-06-28 16:31:57.954 FacebookExample[3474:662659] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-28 16:35:11.467 FacebookExample[3775:684758] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 16:35:11.468 FacebookExample[3775:684758] Multi-tasking -> Device: YES, App: YES
+2015-06-28 16:35:11.482 FacebookExample[3775:684758] Unlimited access to network resources
+2015-06-28 16:35:11.605 FacebookExample[3775:684758] [CDVTimer][keyboard] 0.055969ms
+2015-06-28 16:35:11.605 FacebookExample[3775:684758] [CDVTimer][TotalPluginStartup] 0.236988ms
+2015-06-28 16:35:12.428 FacebookExample[3775:684758] Resetting plugins due to page load.
+2015-06-28 16:35:45.503 FacebookExample[3775:685896] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-06-28 16:35:45.627 FacebookExample[3775:684758] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-28 16:36:49.364 FacebookExample[4063:696503] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 16:36:49.379 FacebookExample[4063:696503] Multi-tasking -> Device: YES, App: YES
+2015-06-28 16:36:49.387 FacebookExample[4063:696503] Unlimited access to network resources
+2015-06-28 16:36:49.592 FacebookExample[4063:696503] [CDVTimer][keyboard] 0.059009ms
+2015-06-28 16:36:49.592 FacebookExample[4063:696503] [CDVTimer][TotalPluginStartup] 0.240982ms
+2015-06-28 16:36:50.421 FacebookExample[4063:696503] Resetting plugins due to page load.
+2015-06-28 16:36:50.964 FacebookExample[4063:696503] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-28 16:38:13.634 FacebookExample[4215:702666] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 16:38:13.635 FacebookExample[4215:702666] Multi-tasking -> Device: YES, App: YES
+2015-06-28 16:38:13.644 FacebookExample[4215:702666] Unlimited access to network resources
+2015-06-28 16:38:13.746 FacebookExample[4215:702666] [CDVTimer][keyboard] 0.056028ms
+2015-06-28 16:38:13.746 FacebookExample[4215:702666] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-28 16:38:14.147 FacebookExample[4215:702666] Resetting plugins due to page load.
+2015-06-28 16:38:14.596 FacebookExample[4215:702666] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-28 16:42:15.741 FacebookExample[4518:727857] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 16:42:15.751 FacebookExample[4518:727857] Multi-tasking -> Device: YES, App: YES
+2015-06-28 16:42:15.770 FacebookExample[4518:727857] Unlimited access to network resources
+2015-06-28 16:42:15.917 FacebookExample[4518:727857] [CDVTimer][keyboard] 0.054955ms
+2015-06-28 16:42:15.917 FacebookExample[4518:727857] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-06-28 16:42:16.761 FacebookExample[4518:727857] Resetting plugins due to page load.
+2015-06-28 16:42:17.291 FacebookExample[4518:727857] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-28 16:42:25.450 FacebookExample[4518:727857] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-28 16:42:25.456 FacebookExample[4518:727857] THREAD WARNING: ['InAppBrowser'] took '132.693848' ms. Plugin should use a background thread.
+2015-06-28 16:43:56.618 FacebookExample[4807:734702] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 16:43:56.635 FacebookExample[4807:734702] Multi-tasking -> Device: YES, App: YES
+2015-06-28 16:43:56.644 FacebookExample[4807:734702] Unlimited access to network resources
+2015-06-28 16:43:56.786 FacebookExample[4807:734702] [CDVTimer][keyboard] 0.059962ms
+2015-06-28 16:43:56.786 FacebookExample[4807:734702] [CDVTimer][TotalPluginStartup] 0.242949ms
+2015-06-28 16:43:57.710 FacebookExample[4807:734702] Resetting plugins due to page load.
+2015-06-28 16:43:58.333 FacebookExample[4807:734702] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-28 16:44:01.676 FacebookExample[4807:734702] Setting the WebView's frame to {{0, 0}, {320, 524}}
+2015-06-28 16:44:01.681 FacebookExample[4807:734702] THREAD WARNING: ['InAppBrowser'] took '259.678711' ms. Plugin should use a background thread.
+2015-06-28 16:53:26.931 FacebookExample[4807:817218] Communications error: <OS_xpc_error: <error: 0x2dca5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2dca83c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-06-28 17:34:45.810 FacebookExample[5570:1105161] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 17:34:45.811 FacebookExample[5570:1105161] Multi-tasking -> Device: YES, App: YES
+2015-06-28 17:34:45.839 FacebookExample[5570:1105161] Unlimited access to network resources
+2015-06-28 17:34:46.013 FacebookExample[5570:1105161] [CDVTimer][keyboard] 0.061989ms
+2015-06-28 17:34:46.013 FacebookExample[5570:1105161] [CDVTimer][TotalPluginStartup] 0.249028ms
+2015-06-28 17:34:47.165 FacebookExample[5570:1105161] Resetting plugins due to page load.
+2015-06-28 17:34:47.801 FacebookExample[5570:1105161] Finished load of: http://192.168.1.214:8100/#/init

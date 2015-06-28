@@ -24,9 +24,13 @@
         <script src="lib/angular-dreamfactory/angular-dreamfactory.js"></script>
 
         <!-- your app's js -->
+        <script src="js/sha256.js"></script>
         <script src="js/bootstrap.js"></script>
         <script src="js/services.js"></script>
         <script src="js/app.js"></script>
+
+        <!-- your apps css -->
+        <link rel="stylesheet" type="text/css" href="css/fonts/flaticon.css"> 
     </head>
     <body ng-app="starter" class="platform-ios platform-cordova platform-webview">
         <ion-side-menus>
@@ -44,7 +48,10 @@
                 </ion-header-bar>
                 <ion-content>
                     <ion-list>
-                    <ion-item class="item" nav-clear menu-close href="#/login">
+                        <ion-item class="item" nav-clear menu-close href="#/init">
+                            Init
+                        </ion-item>
+                        <ion-item class="item" nav-clear menu-close href="#/login">
                             Login
                         </ion-item>
                         <ion-item class="item" nav-clear menu-close href="#/profile">

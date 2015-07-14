@@ -31,6 +31,8 @@
 
 // ionic emulate ios -l -c
 
+// test
+
 
 
 kilo.run(function($ionicPlatform) {

@@ -4169,3 +4169,11 @@
 2015-06-28 17:34:46.013 FacebookExample[5570:1105161] [CDVTimer][TotalPluginStartup] 0.249028ms
 2015-06-28 17:34:47.165 FacebookExample[5570:1105161] Resetting plugins due to page load.
 2015-06-28 17:34:47.801 FacebookExample[5570:1105161] Finished load of: http://192.168.1.214:8100/#/init
+2015-06-28 18:35:48.940 FacebookExample[5570:1526726] Terminating since there is no system app.
+2015-06-28 18:56:38.093 FacebookExample[6541:1631819] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-28 18:56:38.111 FacebookExample[6541:1631819] Multi-tasking -> Device: YES, App: YES
+2015-06-28 18:56:38.144 FacebookExample[6541:1631819] Unlimited access to network resources
+2015-06-28 18:56:40.371 FacebookExample[6541:1631819] [CDVTimer][keyboard] 0.065982ms
+2015-06-28 18:56:40.371 FacebookExample[6541:1631819] [CDVTimer][TotalPluginStartup] 0.263989ms
+2015-06-28 18:56:42.231 FacebookExample[6541:1631819] Resetting plugins due to page load.
+2015-06-28 18:56:43.365 FacebookExample[6541:1631819] Finished load of: http://192.168.1.214:8100/#/init

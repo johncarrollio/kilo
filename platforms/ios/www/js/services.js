@@ -464,7 +464,7 @@ kilo.factory('SessionToken', function ($resource,$q,$ionicLoading,$location,LogE
                                   "duration": 0
                                 }
                     ).$promise.then(function(success) {
-                            console.log(success.session_id);
+           
                             /* We've got a response from DreamFactory so return the session_id */
                             sessionStorage.setItem('session_id', success.session_id);
                             deferred.resolve(success.session_id);

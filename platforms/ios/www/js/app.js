@@ -104,7 +104,6 @@ kilo.controller("InitController", function($scope, $localStorage, $location, $io
     $scope.init = function() {
 
             $localStorage.uuid = '0131c42332ba7f51795e9412a8a9f3c38f73e39099f2fd9da30752d83726ec55';
-
             /* Inititate a DreamFactory session */
             var setSession = function() {
                 /* Get the session token from our SessionToken service factory */
